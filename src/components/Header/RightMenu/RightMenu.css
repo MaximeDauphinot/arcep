@@ -1,0 +1,38 @@
+.RightMenu{
+    width: 100%;
+    max-width: 336px;
+}
+
+.width{
+    width: 100%;
+    max-width: 135px;
+}
+
+.left{
+    justify-content: center;
+    align-items: center;
+    color: rgb(153, 153, 153);
+    margin: 8px 0px;
+    border-right: 0.75px solid rgba(0, 0, 0, 0.2);
+    
+}
+
+.iconLeft{
+    color: rgb(153, 153, 153);
+    margin: 0px 15px;
+    cursor: pointer;
+}
+
+.iconLeft:hover{
+    color: black;
+}
+
+.mid{
+    justify-content: center;
+    align-items: center;
+    color: rgb(153, 153, 153);
+}
+
+.right{
+   
+}

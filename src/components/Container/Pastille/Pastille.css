@@ -1,0 +1,69 @@
+.pastille{
+    align-self: center;
+    z-index: 20;
+    width: 100%;
+    justify-content: space-between;
+    pointer-events : none;
+    position: fixed;
+    top: 33%;
+}
+
+.pastilleLeft{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 100%;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: -150px;
+    pointer-events : auto;
+    cursor: pointer;
+}
+
+.pastilleLeft:hover{
+    background-color: white;
+    margin-left: -50px;
+}
+
+.iconLeft{
+    align-self: center;
+}
+
+.pastilleRight{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 100%;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: -150px;
+    pointer-events : auto;
+    cursor: pointer;
+}
+
+.pastilleRight:hover{
+    background-color: white;
+    margin-right: -50px;
+}
+
+.iconRight{
+    align-self: center;
+}
+
+.paragraphe{
+    font-weight: 800;
+    font-size: 1em;
+}
+
+@media screen and (min-height: 1100px) {
+    .pastilleLeft{
+        height: 300px;
+        width: 300px;
+        margin-left: -200px;
+    }
+    .pastilleRight{
+        height: 300px;
+        width: 300px;
+        margin-right: -200px;
+    }
+  }

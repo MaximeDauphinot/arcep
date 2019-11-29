@@ -1,0 +1,13 @@
+.footer{
+    width: 100%;
+    background-color: black;
+    height: 9%;
+    justify-content: center;
+    align-items: center;
+}
+
+.footerAlign{
+    justify-content: space-around;
+    align-items: center;
+    width: inherit;
+}

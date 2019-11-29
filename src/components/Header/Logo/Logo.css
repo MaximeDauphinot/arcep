@@ -1,0 +1,16 @@
+.logoAlign{
+    width: 20%;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    max-height: 50px;
+    cursor: pointer;
+}
+
+@media screen and (min-height: 1100px) {
+    .logo{
+        max-height: 60px;
+    }
+}

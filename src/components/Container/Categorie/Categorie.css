@@ -1,0 +1,163 @@
+.themes{
+    width: auto;
+}
+
+.modalMiddle{
+    flex-direction: column;
+    width: 100%;
+}
+
+.sectionTitle{
+    background-color: rgb(245, 245, 245);
+    height: 60px;
+    padding: 0px 90px;
+}
+
+.fullWidthContainer{
+    /* height: 540px; */
+    width: 100%;
+    flex-direction: row;
+}
+
+.alignContainer{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    flex-direction: column;
+}
+
+.title{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text{
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    max-width: 250px;
+}
+
+.logo{
+    max-width: 100px;
+    color: white;
+}
+
+.decision{
+    width: 100%;
+    height: 50px;
+    justify-content: flex-end;
+}
+
+.button{
+    border-radius: 11px;
+    color: white;
+    border: 1px solid white;
+    width: 75px;
+    height: 22px;
+}
+
+.lien{
+    height: 22px;
+    width: 75px;
+    margin: 14px;
+    cursor: pointer;
+}
+
+.lien:hover{
+    color: black;
+}
+
+.button:hover{
+    color: black;
+    border: 1px solid white;
+    background-color: white
+}
+
+.buttonObjets{
+    background-color: rgb(55, 86, 157);
+}
+
+.buttonReseaux{
+    background-color: rgb(127, 190, 174);
+}
+
+.buttonAmateur{
+    background-color: rgb(194, 44, 119);
+}
+
+.buttonPMSE{
+    background-color: rgb(210, 47, 47);
+}
+
+.buttonSatellite{
+    background-color: rgb(75, 172, 208);
+}
+
+.buttonFaisceaux{
+    background-color: rgb(242, 157, 75);
+}
+
+.buttonAutres{
+    background-color: rgb(240, 237, 231);
+    border-radius: 11px;
+    color: black;
+    border: 1px solid black;
+    height: 22px;
+    width: 75px;
+    margin: 14px;
+    cursor: pointer;
+}
+
+.btnhover{
+    height: 100%;
+    flex-direction: column;
+}
+
+.hoverCategorie:hover .btnhover{
+    display: flex;
+    cursor: pointer;
+}
+
+.hoverCategorieAutres:hover .btnhover{
+    display: flex;
+    cursor: pointer;
+}
+
+.hoverCategorie:hover path{
+    fill: white !important;
+}
+
+.hoverCategorieAutres:hover path{
+    fill: black !important;
+}
+
+.underCategorieContainer{
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logoUnderCat{
+    width: 70px;
+}
+
+.titleUnderCat{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.textAlign{
+    justify-content: center;
+    align-items: center;
+}
+
+.textUndercat{
+    color: white;
+    font-family: Open Sans;
+    font-size: 14px;
+}

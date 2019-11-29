@@ -1,0 +1,2081 @@
+[
+  {
+    "Catégorie": "Tous",
+    "Application": "Tous",
+    "Exemples spécifiques à la bande": "Tous",
+    "Fréquencebasse": 0,
+    "Fréquencehaute": "275000000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Applications à bande ultralarge (UWB)",
+    "Exemples spécifiques à la bande": "Radar",
+    "Fréquencebasse": 0,
+    "Fréquencehaute": "1600000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "Plaques à induction",
+    "Fréquencebasse": "9000",
+    "Fréquencehaute": "59750"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Implants médicaux actifs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "9000",
+    "Fréquencehaute": "315000"
+  },
+  {
+    "Catégorie": "Autres",
+    "Application": "Autres applications",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "9000",
+    "Fréquencehaute": "275000000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "59750",
+    "Fréquencehaute": "60250"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "60250",
+    "Fréquencehaute": "74750"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "74750",
+    "Fréquencehaute": "75250"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "75250",
+    "Fréquencehaute": "77250"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "77250",
+    "Fréquencehaute": "77750"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "77750",
+    "Fréquencehaute": "90000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "90000",
+    "Fréquencehaute": "119000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "119000",
+    "Fréquencehaute": "135000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "135000",
+    "Fréquencehaute": "148500"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "135700",
+    "Fréquencehaute": "137800"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "148500",
+    "Fréquencehaute": "5000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Implants médicaux actifs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "315000",
+    "Fréquencehaute": "600000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "RFID",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "400000",
+    "Fréquencehaute": "600000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "Dispositifs de détection de personnes ensevelies et d'objets de valeur",
+    "Fréquencebasse": "456900",
+    "Fréquencehaute": "457100"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "472000",
+    "Fréquencehaute": "479000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "984000",
+    "Fréquencehaute": "7484000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1800000",
+    "Fréquencehaute": "1810000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1810000",
+    "Fréquencehaute": "1850000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1850000",
+    "Fréquencehaute": "2000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "3155000",
+    "Fréquencehaute": "3400000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "3500000",
+    "Fréquencehaute": "3750000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "3750000",
+    "Fréquencehaute": "3800000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "3800000",
+    "Fréquencehaute": "4000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "5000000",
+    "Fréquencehaute": "30000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "6765000",
+    "Fréquencehaute": "6795000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "6765000",
+    "Fréquencehaute": "6795000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "7000000",
+    "Fréquencehaute": "7100000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "7000000",
+    "Fréquencehaute": "7100000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "7100000",
+    "Fréquencehaute": "7200000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "7200000",
+    "Fréquencehaute": "7300000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "7300000",
+    "Fréquencehaute": "23000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "7400000",
+    "Fréquencehaute": "8800000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "10100000",
+    "Fréquencehaute": "10150000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "10200000",
+    "Fréquencehaute": "11000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Implants médicaux actifs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "12500000",
+    "Fréquencehaute": "20000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "13553000",
+    "Fréquencehaute": "13567000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "RFID",
+    "Exemples spécifiques à la bande": "Technologie NFC (Near Field Communication / Communication en champ proche) : cartes de transport, paiement sans contact",
+    "Fréquencebasse": "13553000",
+    "Fréquencehaute": "13567000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "14000000",
+    "Fréquencehaute": "14250000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "14000000",
+    "Fréquencehaute": "14250000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "14250000",
+    "Fréquencehaute": "14350000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "18068000",
+    "Fréquencehaute": "18168000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "18068000",
+    "Fréquencehaute": "18168000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "21000000",
+    "Fréquencehaute": "21450000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "21000000",
+    "Fréquencehaute": "21450000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24890000",
+    "Fréquencehaute": "24990000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24890000",
+    "Fréquencehaute": "24990000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Commandes de modèles réduits",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "26810000",
+    "Fréquencehaute": "26920000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Applications inductives",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "26957000",
+    "Fréquencehaute": "27283000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "26957000",
+    "Fréquencehaute": "27283000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "26990000",
+    "Fréquencehaute": "27000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "27040000",
+    "Fréquencehaute": "27050000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "27090000",
+    "Fréquencehaute": "27100000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "27140000",
+    "Fréquencehaute": "27150000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "27190000",
+    "Fréquencehaute": "27200000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "28000000",
+    "Fréquencehaute": "29700000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "28000000",
+    "Fréquencehaute": "29700000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Implants médicaux actifs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "30000000",
+    "Fréquencehaute": "37500000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Commandes de modèles réduits",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "34995000",
+    "Fréquencehaute": "35055000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Commandes de modèles réduits",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "40660000",
+    "Fréquencehaute": "40700000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "40660000",
+    "Fréquencehaute": "40700000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Commandes de modèles réduits",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "41055000",
+    "Fréquencehaute": "41205000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "50000000",
+    "Fréquencehaute": "52000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "52000000",
+    "Fréquencehaute": "54000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Commandes de modèles réduits",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "72200000",
+    "Fréquencehaute": "72500000"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "Audio/multimédia sans fil",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "87500000",
+    "Fréquencehaute": "108000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "144000000",
+    "Fréquencehaute": "146000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "144000000",
+    "Fréquencehaute": "146000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "146000000",
+    "Fréquencehaute": "148000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Aides à l'audition",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "169400000",
+    "Fréquencehaute": "169475000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Mesures",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "169400000",
+    "Fréquencehaute": "169475000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "169400000",
+    "Fréquencehaute": "169487500"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Alarmes",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "169475000",
+    "Fréquencehaute": "169487500"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Aides à l'audition",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "169487500",
+    "Fréquencehaute": "169587500"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "169487500",
+    "Fréquencehaute": "169587500"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Alarmes",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "169587500",
+    "Fréquencehaute": "169600000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "169587500",
+    "Fréquencehaute": "169812500"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "PMSE",
+    "Exemples spécifiques à la bande": "Transmission audio sans fil pour l'événementiel : microphones sans fil dans les salles de spectacle, concert, festival…",
+    "Fréquencebasse": "174000000",
+    "Fréquencehaute": "223000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "220000000",
+    "Fréquencehaute": "225000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Implants médicaux actifs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "401000000",
+    "Fréquencehaute": "402000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Implants médicaux actifs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "402000000",
+    "Fréquencehaute": "405000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Implants médicaux actifs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "405000000",
+    "Fréquencehaute": "406000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "PMR/PAMR",
+    "Exemples spécifiques à la bande": "Communication sécurisée pour les professionnels : réseau de transport, sécurité des événements…",
+    "Fréquencebasse": "410000000",
+    "Fréquencehaute": "430000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "430000000",
+    "Fréquencehaute": "434000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "433050000",
+    "Fréquencehaute": "434040000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "434000000",
+    "Fréquencehaute": "440000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "434040000",
+    "Fréquencehaute": "434790000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "435000000",
+    "Fréquencehaute": "438000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "438000000",
+    "Fréquencehaute": "440000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "PMR/PAMR",
+    "Exemples spécifiques à la bande": "Communication grand public : talkie walkie…",
+    "Fréquencebasse": "446100000",
+    "Fréquencehaute": "446200000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "PMR/PAMR",
+    "Exemples spécifiques à la bande": "Communication sécurisée pour les professionnels : réseau de transport, sécurité des événements…",
+    "Fréquencebasse": "450000000",
+    "Fréquencehaute": "470000000"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "PMSE",
+    "Exemples spécifiques à la bande": "Transmission audio sans fil pour l'événementiel : microphones sans fil dans les salles de spectacle, concert, festival…",
+    "Fréquencebasse": "470000000",
+    "Fréquencehaute": "694000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "703000000",
+    "Fréquencehaute": "708000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "708000000",
+    "Fréquencehaute": "718000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "718000000",
+    "Fréquencehaute": "723000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Free",
+    "Fréquencebasse": "723000000",
+    "Fréquencehaute": "733000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "758000000",
+    "Fréquencehaute": "763000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "763000000",
+    "Fréquencehaute": "773000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "773000000",
+    "Fréquencehaute": "778000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Free",
+    "Fréquencebasse": "778000000",
+    "Fréquencehaute": "788000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Systèmes de Terre permettant de fournir des services de communications électroniques",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "790000000",
+    "Fréquencehaute": "862000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "791000000",
+    "Fréquencehaute": "801000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "801000000",
+    "Fréquencehaute": "811000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "811000000",
+    "Fréquencehaute": "821000000"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "PMSE",
+    "Exemples spécifiques à la bande": "Transmission audio sans fil pour l'événementiel : microphones sans fil dans les salles de spectacle, concert, festival…",
+    "Fréquencebasse": "823000000",
+    "Fréquencehaute": "832000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "832000000",
+    "Fréquencehaute": "842000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "842000000",
+    "Fréquencehaute": "852000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "852000000",
+    "Fréquencehaute": "862000000"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "Audio/multimédia sans fil",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "863000000",
+    "Fréquencehaute": "865000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "863000000",
+    "Fréquencehaute": "865000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "865000000",
+    "Fréquencehaute": "868000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "RFID",
+    "Exemples spécifiques à la bande": "Suivi des trains",
+    "Fréquencebasse": "865000000",
+    "Fréquencehaute": "865600000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "RFID",
+    "Exemples spécifiques à la bande": "Suivi des trains",
+    "Fréquencebasse": "865600000",
+    "Fréquencehaute": "867600000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "RFID",
+    "Exemples spécifiques à la bande": "Suivi des trains",
+    "Fréquencebasse": "867600000",
+    "Fréquencehaute": "868000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "Protocoles de communication IoT : Sigfox, Zigbee, LoRa…",
+    "Fréquencebasse": "868000000",
+    "Fréquencehaute": "868600000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Alarmes",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "868600000",
+    "Fréquencehaute": "868700000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "868700000",
+    "Fréquencehaute": "869200000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Alarmes",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "869200000",
+    "Fréquencehaute": "869250000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Alarmes",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "869250000",
+    "Fréquencehaute": "869300000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "869300000",
+    "Fréquencehaute": "869400000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "869400000",
+    "Fréquencehaute": "869650000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Alarmes",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "869650000",
+    "Fréquencehaute": "869700000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "869700000",
+    "Fréquencehaute": "870000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "880000000",
+    "Fréquencehaute": "890000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "890000000",
+    "Fréquencehaute": "900000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Free",
+    "Fréquencebasse": "900000000",
+    "Fréquencehaute": "905000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "905000000",
+    "Fréquencehaute": "915000000"
+  },
+  {
+    "Catégorie": "Autres",
+    "Application": "Autres applications",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "925000000",
+    "Fréquencehaute": "960000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "925000000",
+    "Fréquencehaute": "935000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "935000000",
+    "Fréquencehaute": "945000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Free",
+    "Fréquencebasse": "945000000",
+    "Fréquencehaute": "950000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "950000000",
+    "Fréquencehaute": "960000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1240000000",
+    "Fréquencehaute": "1300000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1240000000",
+    "Fréquencehaute": "1300000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1375000000",
+    "Fréquencehaute": "1400000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1427000000",
+    "Fréquencehaute": "1452000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Applications à bande ultralarge (UWB)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1600000000",
+    "Fréquencehaute": "2700000000"
+  },
+  {
+    "Catégorie": "Autres",
+    "Application": "Autres applications",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1710000000",
+    "Fréquencehaute": "1785000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "1710000000",
+    "Fréquencehaute": "1730000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "1730000000",
+    "Fréquencehaute": "1750000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Free",
+    "Fréquencebasse": "1750000000",
+    "Fréquencehaute": "1765000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "1765000000",
+    "Fréquencehaute": "1785000000"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "PMSE",
+    "Exemples spécifiques à la bande": "Transmission audio sans fil pour l'événementiel : microphones sans fil dans les salles de spectacle, concert, festival…",
+    "Fréquencebasse": "1785000000",
+    "Fréquencehaute": "1805000000"
+  },
+  {
+    "Catégorie": "Autres",
+    "Application": "Autres applications",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1805000000",
+    "Fréquencehaute": "1880000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Communications mobiles à bord des navires",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1805000000",
+    "Fréquencehaute": "1880000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "1805000000",
+    "Fréquencehaute": "1825000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "1825000000",
+    "Fréquencehaute": "1845000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Free",
+    "Fréquencebasse": "1845000000",
+    "Fréquencehaute": "1860000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "1860000000",
+    "Fréquencehaute": "1880000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "1900000000",
+    "Fréquencehaute": "1905000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "1910000000",
+    "Fréquencehaute": "1915000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "1915000000",
+    "Fréquencehaute": "1920000000"
+  },
+  {
+    "Catégorie": "Autres",
+    "Application": "Autres applications",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "1920000000",
+    "Fréquencehaute": "1980000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "1920000000",
+    "Fréquencehaute": "1935000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "1935000000",
+    "Fréquencehaute": "1950000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "1950000000",
+    "Fréquencehaute": "1955000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Free",
+    "Fréquencebasse": "1955000000",
+    "Fréquencehaute": "1960000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "1960000000",
+    "Fréquencehaute": "1965000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "1965000000",
+    "Fréquencehaute": "1980000000"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "FH Vidéo PMSE",
+    "Exemples spécifiques à la bande": "Transmission vidéo sans fil pour l'événementiel : Tour de France, Roland Garros…",
+    "Fréquencebasse": "2010000000",
+    "Fréquencehaute": "2025000000"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "FH Vidéo PMSE",
+    "Exemples spécifiques à la bande": "Transmission vidéo sans fil pour l'événementiel : Tour de France, Roland Garros…",
+    "Fréquencebasse": "2025000000",
+    "Fréquencehaute": "2110000000"
+  },
+  {
+    "Catégorie": "Autres",
+    "Application": "Autres applications",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "2110000000",
+    "Fréquencehaute": "2170000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "2110000000",
+    "Fréquencehaute": "2125000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "2125000000",
+    "Fréquencehaute": "2140000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "2140000000",
+    "Fréquencehaute": "2145000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Free",
+    "Fréquencebasse": "2145000000",
+    "Fréquencehaute": "2150000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "2150000000",
+    "Fréquencehaute": "2155000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "2155000000",
+    "Fréquencehaute": "2170000000"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "FH Vidéo PMSE",
+    "Exemples spécifiques à la bande": "Transmission vidéo sans fil pour l'événementiel : Tour de France, Roland Garros…",
+    "Fréquencebasse": "2200000000",
+    "Fréquencehaute": "2500000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "2300000000",
+    "Fréquencehaute": "2450000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "2400000000",
+    "Fréquencehaute": "2415000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "2400000000",
+    "Fréquencehaute": "2483500000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "2400000000",
+    "Fréquencehaute": "2483500000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Transmission de données à large bande",
+    "Exemples spécifiques à la bande": "Wi-Fi, Bluetooth",
+    "Fréquencebasse": "2400000000",
+    "Fréquencehaute": "2483500000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "2415000000",
+    "Fréquencehaute": "2450000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "RFID",
+    "Exemples spécifiques à la bande": "Télépéage",
+    "Fréquencebasse": "2446000000",
+    "Fréquencehaute": "2454000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Implants médicaux actifs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "2483500000",
+    "Fréquencehaute": "2500000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Systèmes de Terre permettant de fournir des services de communications électroniques",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "2500000000",
+    "Fréquencehaute": "2690000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "2500000000",
+    "Fréquencehaute": "2515000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "2515000000",
+    "Fréquencehaute": "2535000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "2535000000",
+    "Fréquencehaute": "2550000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Free",
+    "Fréquencebasse": "2550000000",
+    "Fréquencehaute": "2570000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "SFR",
+    "Fréquencebasse": "2620000000",
+    "Fréquencehaute": "2635000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Orange",
+    "Fréquencebasse": "2635000000",
+    "Fréquencehaute": "2655000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Bouygues Télécom",
+    "Fréquencebasse": "2655000000",
+    "Fréquencehaute": "2670000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Réseaux mobiles ouverts au public",
+    "Exemples spécifiques à la bande": "Free",
+    "Fréquencebasse": "2670000000",
+    "Fréquencehaute": "2690000000"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "FH Vidéo PMSE",
+    "Exemples spécifiques à la bande": "Transmission vidéo sans fil pour l'événementiel : Tour de France, Roland Garros…",
+    "Fréquencebasse": "2700000000",
+    "Fréquencehaute": "2900000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Applications à bande ultralarge (UWB)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "2700000000",
+    "Fréquencehaute": "3100000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Applications à bande ultralarge (UWB)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "3100000000",
+    "Fréquencehaute": "3400000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "3300000000",
+    "Fréquencehaute": "3500000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "3400000000",
+    "Fréquencehaute": "3500000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Applications à bande ultralarge (UWB)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "3400000000",
+    "Fréquencehaute": "3800000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Boucle locale radio",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "3410000000",
+    "Fréquencehaute": "3460000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Applications à bande ultralarge (UWB)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "3800000000",
+    "Fréquencehaute": "4800000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "4500000000",
+    "Fréquencehaute": "7000000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Applications à bande ultralarge (UWB)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "4800000000",
+    "Fréquencehaute": "6000000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Transmission de données à large bande",
+    "Exemples spécifiques à la bande": "Wi-Fi 5GHz",
+    "Fréquencebasse": "5150000000",
+    "Fréquencehaute": "5350000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Transmission de données à large bande",
+    "Exemples spécifiques à la bande": "Wi-Fi 5GHz",
+    "Fréquencebasse": "5470000000",
+    "Fréquencehaute": "5725000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "5650000000",
+    "Fréquencehaute": "5850000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "5650000000",
+    "Fréquencehaute": "5725000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "5725000000",
+    "Fréquencehaute": "5875000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "5795000000",
+    "Fréquencehaute": "5805000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "5830000000",
+    "Fréquencehaute": "5850000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "5850000000",
+    "Fréquencehaute": "5925000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "Véhicules connectés",
+    "Fréquencebasse": "5875000000",
+    "Fréquencehaute": "5905000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "5925000000",
+    "Fréquencehaute": "6425000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Applications à bande ultralarge (UWB)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "6000000000",
+    "Fréquencehaute": "8500000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "6000000000",
+    "Fréquencehaute": "8500000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "6169745000",
+    "Fréquencehaute": "6180245000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "6424553000",
+    "Fréquencehaute": "6435053000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "6425000000",
+    "Fréquencehaute": "7110000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "6763000000",
+    "Fréquencehaute": "6777000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "7105500000",
+    "Fréquencehaute": "7119500000"
+  },
+  {
+    "Catégorie": "PMSE",
+    "Application": "FH Vidéo PMSE",
+    "Exemples spécifiques à la bande": "Transmission vidéo sans fil pour l'événementiel : Tour de France, Roland Garros…",
+    "Fréquencebasse": "7110000000",
+    "Fréquencehaute": "7250000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "8025000000",
+    "Fréquencehaute": "8500000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "8500000000",
+    "Fréquencehaute": "10600000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Applications à bande ultralarge (UWB)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "8500000000",
+    "Fréquencehaute": "9000000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Applications à bande ultralarge (UWB)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "9000000000",
+    "Fréquencehaute": "10600000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "10000000000",
+    "Fréquencehaute": "10450000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "10450000000",
+    "Fréquencehaute": "10500000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "10450000000",
+    "Fréquencehaute": "10500000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "10700000000",
+    "Fréquencehaute": "11700000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Liaisons vidéo temporaires par satellite (SNG)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "10700000000",
+    "Fréquencehaute": "11700000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Services de communications par satellite à bord de navires",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "10700000000",
+    "Fréquencehaute": "11700000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Services de communications par satellite à bord d'aéronefs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "10700000000",
+    "Fréquencehaute": "11700000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "AES",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "10700000000",
+    "Fréquencehaute": "11700000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Liaisons vidéo temporaires par satellite (SNG)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "12500000000",
+    "Fréquencehaute": "12750000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Services de communications par satellite à bord de navires",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "12500000000",
+    "Fréquencehaute": "12750000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Services de communications par satellite à bord d'aéronefs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "12500000000",
+    "Fréquencehaute": "12750000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "AES",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "12500000000",
+    "Fréquencehaute": "12750000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "12750000000",
+    "Fréquencehaute": "13250000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Liaisons vidéo temporaires par satellite (SNG)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "14000000000",
+    "Fréquencehaute": "14250000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Services de communications par satellite à bord de navires",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "14000000000",
+    "Fréquencehaute": "14500000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Services de communications par satellite à bord d'aéronefs",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "14000000000",
+    "Fréquencehaute": "14500000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "AES",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "14000000000",
+    "Fréquencehaute": "14500000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Liaisons vidéo temporaires par satellite (SNG)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "14250000000",
+    "Fréquencehaute": "14500000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "17100000000",
+    "Fréquencehaute": "17300000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "17700000000",
+    "Fréquencehaute": "19700000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Liaisons vidéo temporaires par satellite (SNG)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "17700000000",
+    "Fréquencehaute": "20200000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "21650000000",
+    "Fréquencehaute": "24250000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "22000000000",
+    "Fréquencehaute": "22600000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "22758750000",
+    "Fréquencehaute": "22842750000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH) LAAAAAADEWFWFWEFEWFWFW",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "23000000000",
+    "Fréquencehaute": "23600000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24000000000",
+    "Fréquencehaute": "24050000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24000000000",
+    "Fréquencehaute": "24050000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24000000000",
+    "Fréquencehaute": "24100000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24050000000",
+    "Fréquencehaute": "24250000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24050000000",
+    "Fréquencehaute": "24250000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24050000000",
+    "Fréquencehaute": "26500000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24050000000",
+    "Fréquencehaute": "27000000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24050000000",
+    "Fréquencehaute": "24075000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24075000000",
+    "Fréquencehaute": "24150000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24100000000",
+    "Fréquencehaute": "24150000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24150000000",
+    "Fréquencehaute": "24250000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24150000000",
+    "Fréquencehaute": "24250000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24250000000",
+    "Fréquencehaute": "24495000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24250000000",
+    "Fréquencehaute": "24500000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24495000000",
+    "Fréquencehaute": "24500000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "24549000000",
+    "Fréquencehaute": "25445000000"
+  },
+  {
+    "Catégorie": "Satellite",
+    "Application": "Liaisons vidéo temporaires par satellite (SNG)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "29500000000",
+    "Fréquencehaute": "30000000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "31871000000",
+    "Fréquencehaute": "32543000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "32683000000",
+    "Fréquencehaute": "33355000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "37268000000",
+    "Fréquencehaute": "38220000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "38528000000",
+    "Fréquencehaute": "39480000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "47000000000",
+    "Fréquencehaute": "47200000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "47000000000",
+    "Fréquencehaute": "47200000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "57000000000",
+    "Fréquencehaute": "64000000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "57000000000",
+    "Fréquencehaute": "64000000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Transmission de données à large bande",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "57000000000",
+    "Fréquencehaute": "66000000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "61000000000",
+    "Fréquencehaute": "61500000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "63000000000",
+    "Fréquencehaute": "64000000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "71000000000",
+    "Fréquencehaute": "76000000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Application de radiorepérage",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "75000000000",
+    "Fréquencehaute": "85000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "76000000000",
+    "Fréquencehaute": "77500000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "76000000000",
+    "Fréquencehaute": "77500000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "76000000000",
+    "Fréquencehaute": "77000000000"
+  },
+  {
+    "Catégorie": "Objets/IoT",
+    "Application": "Systèmes télématiques pour la circulation et le transport",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "77000000000",
+    "Fréquencehaute": "81000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "77500000000",
+    "Fréquencehaute": "78000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "77500000000",
+    "Fréquencehaute": "78000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "78000000000",
+    "Fréquencehaute": "81500000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "78000000000",
+    "Fréquencehaute": "81500000000"
+  },
+  {
+    "Catégorie": "Faisceaux hertziens",
+    "Application": "Faisceaux hertziens (FH)",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "81000000000",
+    "Fréquencehaute": "86000000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "122000000000",
+    "Fréquencehaute": "123000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "122250000000",
+    "Fréquencehaute": "123000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "134000000000",
+    "Fréquencehaute": "136000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "134000000000",
+    "Fréquencehaute": "136000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "136000000000",
+    "Fréquencehaute": "141000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "136000000000",
+    "Fréquencehaute": "141000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "241000000000",
+    "Fréquencehaute": "248000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "241000000000",
+    "Fréquencehaute": "248000000000"
+  },
+  {
+    "Catégorie": "Réseaux mobile et THD",
+    "Application": "Non-spécifique",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "244000000000",
+    "Fréquencehaute": "246000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "248000000000",
+    "Fréquencehaute": "250000000000"
+  },
+  {
+    "Catégorie": "Amateur",
+    "Application": "Amateur-satellite",
+    "Exemples spécifiques à la bande": "",
+    "Fréquencebasse": "248000000000",
+    "Fréquencehaute": "250000000000"
+  }
+]

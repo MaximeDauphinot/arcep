@@ -1,0 +1,109 @@
+.themes{
+    width: auto;
+}
+
+.modalMiddle{
+    flex-direction: column;
+    width: 100%;
+}
+
+.sectionTitle{
+    background-color: rgb(245, 245, 245);
+    height: 60px;
+    padding: 0px 90px;
+}
+
+.sectionTitle path{
+    fill: black !important;
+}
+
+.fullWidthContainer{
+    width: 100%;
+    flex-direction: row;
+}
+
+.firstContainer{
+    background-color: rgb(127, 190, 174);
+    margin: 0px 2px;
+    width: 30%;
+
+}
+
+.secondContainer{
+    background-color: rgb(127, 190, 174);
+    margin: 0px 2px;
+    width: 15%;
+
+}
+
+.thirdContainer{
+    background-color: rgb(127, 190, 174);
+    margin: 0px 2px;
+    width: 30%;
+
+}
+
+.fourthContainer{
+    background-color: rgb(55, 86, 157);
+    width: 25%;
+    margin: 0px 2px;
+}
+
+.alignContainer{
+    color: white;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 25% 14px;
+    flex-direction: column;
+}
+
+.alignContainer path{
+    fill: white !important;
+}
+
+.alignContainer circle{
+    fill: white !important;
+}
+
+.title{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text{
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    max-width: 250px;
+}
+
+.logo{
+    width: 25%;
+    color: white;
+}
+
+.modaleTheme{
+    width: 100%;
+    flex-direction: column;
+    pointer-events: none;
+}
+
+.modalThemeTitle{
+    height: 35px;
+    margin: 10px 20px;
+    flex-direction: column;
+}
+
+.modalThemeContent{
+    height: 280px;
+    margin: 0px 20px;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.modalThemeFooter{
+    height: 30px;
+    margin: 10px 20px;
+}

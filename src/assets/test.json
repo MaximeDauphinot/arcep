@@ -1,0 +1,262 @@
+[
+    {
+      "Catégorie": "Tous",
+      "Application": "Tous",
+      "Exemples spécifiques à la bande": "Tous",
+      "Fréquencebasse": 0,
+      "Fréquencehaute": "275000000000"
+    },
+    {
+      "Catégorie": "Objets/IoT",
+      "name": "test",
+      "Application": "Applications à bande ultralarge (UWB)",
+      "Exemples spécifiques à la bande": "Radar",
+      "Fréquencebasse": 0,
+      "Fréquencehaute": "1600000000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "Plaques à induction",
+      "Fréquencebasse": "9000",
+      "Fréquencehaute": "59750"
+    },
+    {
+      "Catégorie": "Objets/IoT",
+      "Application": "Implants médicaux actifs",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "9000",
+      "Fréquencehaute": "315000"
+    },
+    {
+      "Catégorie": "Autres",
+      "Application": "Autres applications",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "9000",
+      "Fréquencehaute": "275000000000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "59750",
+      "Fréquencehaute": "60250"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "60250",
+      "Fréquencehaute": "74750"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "74750",
+      "Fréquencehaute": "75250"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "75250",
+      "Fréquencehaute": "77250"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "77250",
+      "Fréquencehaute": "77750"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "77750",
+      "Fréquencehaute": "90000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "90000",
+      "Fréquencehaute": "119000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "119000",
+      "Fréquencehaute": "135000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "135000",
+      "Fréquencehaute": "148500"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "135700",
+      "Fréquencehaute": "137800"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "148500",
+      "Fréquencehaute": "5000000"
+    },
+    {
+      "Catégorie": "Objets/IoT",
+      "Application": "Implants médicaux actifs",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "315000",
+      "Fréquencehaute": "600000"
+    },
+    {
+      "Catégorie": "Objets/IoT",
+      "Application": "RFID",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "400000",
+      "Fréquencehaute": "600000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Non-spécifique",
+      "Exemples spécifiques à la bande": "Dispositifs de détection de personnes ensevelies et d'objets de valeur",
+      "Fréquencebasse": "456900",
+      "Fréquencehaute": "457100"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "472000",
+      "Fréquencehaute": "479000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Systèmes télématiques pour la circulation et le transport",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "984000",
+      "Fréquencehaute": "7484000"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "1800000",
+      "Fréquencehaute": "1810000"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "1810000",
+      "Fréquencehaute": "1850000"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "1850000",
+      "Fréquencehaute": "2000000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "3155000",
+      "Fréquencehaute": "3400000"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "3500000",
+      "Fréquencehaute": "3750000"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "3750000",
+      "Fréquencehaute": "3800000"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "3800000",
+      "Fréquencehaute": "4000000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "5000000",
+      "Fréquencehaute": "30000000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "6765000",
+      "Fréquencehaute": "6795000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Non-spécifique",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "6765000",
+      "Fréquencehaute": "6795000"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "7000000",
+      "Fréquencehaute": "7100000"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur-satellite",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "7000000",
+      "Fréquencehaute": "7100000"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "7100000",
+      "Fréquencehaute": "7200000"
+    },
+    {
+      "Catégorie": "Amateur",
+      "Application": "Amateur",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "7200000",
+      "Fréquencehaute": "7300000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Systèmes télématiques pour la circulation et le transport",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "7300000",
+      "Fréquencehaute": "23000000"
+    },
+    {
+      "Catégorie": "Réseaux mobile et THD",
+      "Application": "Applications inductives",
+      "Exemples spécifiques à la bande": "",
+      "Fréquencebasse": "7400000",
+      "Fréquencehaute": "8800000"
+    }
+]

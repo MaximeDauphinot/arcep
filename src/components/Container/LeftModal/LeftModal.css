@@ -1,0 +1,77 @@
+.leftModal{
+    width: 100%;
+    flex-direction: column;
+}
+
+.Cross{
+    height: fit-content;
+    justify-content: flex-end;
+    margin: 8px
+}
+
+.crossStyle{
+    color: black;
+    cursor: pointer;
+}
+
+.content{
+    flex-direction: column;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 18px;
+    justify-content: left;
+    height: fit-content;
+    margin-left: 30px;
+}
+
+.allTheme{
+    flex-direction: column;
+}
+
+.theme{
+    margin-left: 30px;
+    font-size: 16px;
+    color: black;
+    width: fit-content;
+}
+
+.theme:hover{
+    color: #EE5557;
+    cursor: pointer;
+}
+
+.button{
+    justify-content: center;
+    align-items: center;
+}
+
+.styleButton{
+    border: 2px solid  #EE5557;
+    border-radius: 30px;
+    width: 160px;
+    height: 35px;
+    color: #EE5557;
+    font-weight: bold;
+    margin-top: 245px
+}
+
+.styleButton:hover{
+    background-color: #EE5557;
+    color: white;
+    cursor: pointer;
+}
+
+.logoUnderCat{
+    width: 50px;
+}
+.theme:hover path{
+    fill: #EE5557 !important;
+}
+
+@media screen and (max-height: 900px) {
+    .styleButton {
+      margin-top: 145px;
+    }
+  }

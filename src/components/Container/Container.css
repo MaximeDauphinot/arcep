@@ -1,0 +1,35 @@
+.container{
+    flex-grow: 1;
+    flex-direction: column;
+}
+
+.testSpectre{
+    /* height: 870px; */
+    width: 100%;   
+    overflow: scroll;
+    overflow: hidden;
+    overflow-x: scroll;
+    position: absolute;
+    /* scroll-behavior: smooth; */
+}
+
+.testSpectreSD{
+    margin: 0px 5px;
+    /* min-width: 275000px; */
+}
+
+/* @media screen and (max-height: 799px) {
+    .testSpectre {
+      height: 290px;
+    }
+  }
+
+  @media screen and (max-height: 1399px) {
+    .testSpectre {
+      height: 580px;
+    }
+  } */
+
+  
+
+  /* gere ca dans le javascript */

@@ -1,0 +1,2277 @@
+[
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"9000",
+        "Fréquencehaute":"59750",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/19-0300.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Implants médicaux actifs",
+        "Fréquencebasse":"9000",
+        "Fréquencehaute":"315000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"59750",
+        "Fréquencehaute":"60250",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"60250",
+        "Fréquencehaute":"74750",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"74750",
+        "Fréquencehaute":"75250",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"75250",
+        "Fréquencehaute":"77250",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"77250",
+        "Fréquencehaute":"77750",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"77750",
+        "Fréquencehaute":"90000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"90000",
+        "Fréquencehaute":"119000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"119000",
+        "Fréquencehaute":"135000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"135000",
+        "Fréquencehaute":"148500",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"135700",
+        "Fréquencehaute":"137800",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"148500",
+        "Fréquencehaute":"5000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Implants médicaux actifs",
+        "Fréquencebasse":"315000",
+        "Fréquencehaute":"600000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"RFID",
+        "Fréquencebasse":"400000",
+        "Fréquencehaute":"600000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"456900",
+        "Fréquencehaute":"457100",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"472000",
+        "Fréquencehaute":"479000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"984000",
+        "Fréquencehaute":"7484000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"1810000",
+        "Fréquencehaute":"1850000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"3155000",
+        "Fréquencehaute":"3400000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"3500000",
+        "Fréquencehaute":"3750000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"3750000",
+        "Fréquencehaute":"3800000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"5000000",
+        "Fréquencehaute":"30000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"6765000",
+        "Fréquencehaute":"6795000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"6765000",
+        "Fréquencehaute":"6795000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"7000000",
+        "Fréquencehaute":"7100000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"7000000",
+        "Fréquencehaute":"7100000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"7000000",
+        "Fréquencehaute":"7100000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"7100000",
+        "Fréquencehaute":"7200000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"7300000",
+        "Fréquencehaute":"23000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"7400000",
+        "Fréquencehaute":"8800000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"10100000",
+        "Fréquencehaute":"10150000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"10200000",
+        "Fréquencehaute":"11000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Implants médicaux actifs",
+        "Fréquencebasse":"12500000",
+        "Fréquencehaute":"20000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"13553000",
+        "Fréquencehaute":"13567000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"RFID",
+        "Fréquencebasse":"13553000",
+        "Fréquencehaute":"13567000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"14000000",
+        "Fréquencehaute":"14250000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"14000000",
+        "Fréquencehaute":"14250000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"14250000",
+        "Fréquencehaute":"14350000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"18068000",
+        "Fréquencehaute":"18168000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"18068000",
+        "Fréquencehaute":"18168000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"21000000",
+        "Fréquencehaute":"21450000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"21000000",
+        "Fréquencehaute":"21450000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"24890000",
+        "Fréquencehaute":"24990000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"24890000",
+        "Fréquencehaute":"24990000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Commandes de modèles réduits",
+        "Fréquencebasse":"26810000",
+        "Fréquencehaute":"26920000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Applications inductives",
+        "Fréquencebasse":"26957000",
+        "Fréquencehaute":"27283000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"26957000",
+        "Fréquencehaute":"27283000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"26990000",
+        "Fréquencehaute":"27000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"27040000",
+        "Fréquencehaute":"27050000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"27090000",
+        "Fréquencehaute":"27100000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"27140000",
+        "Fréquencehaute":"27150000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"27190000",
+        "Fréquencehaute":"27200000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"28000000",
+        "Fréquencehaute":"29700000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"28000000",
+        "Fréquencehaute":"29700000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Implants médicaux actifs",
+        "Fréquencebasse":"30000000",
+        "Fréquencehaute":"37500000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Commandes de modèles réduits",
+        "Fréquencebasse":"34995000",
+        "Fréquencehaute":"35055000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Commandes de modèles réduits",
+        "Fréquencebasse":"40660000",
+        "Fréquencehaute":"40700000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"40660000",
+        "Fréquencehaute":"40700000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Commandes de modèles réduits",
+        "Fréquencebasse":"41055000",
+        "Fréquencehaute":"41205000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"50000000",
+        "Fréquencehaute":"52000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Commandes de modèles réduits",
+        "Fréquencebasse":"72200000",
+        "Fréquencehaute":"72500000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"Audio/multimédia sans fil",
+        "Fréquencebasse":"87500000",
+        "Fréquencehaute":"108000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"137000000",
+        "Fréquencehaute":"138000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1083.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"144000000",
+        "Fréquencehaute":"146000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"144000000",
+        "Fréquencehaute":"146000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"144000000",
+        "Fréquencehaute":"146000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"144000000",
+        "Fréquencehaute":"146000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"148000000",
+        "Fréquencehaute":"150050000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1083.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Aides à l'audition",
+        "Fréquencebasse":"169400000",
+        "Fréquencehaute":"169475000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Mesures",
+        "Fréquencebasse":"169400000",
+        "Fréquencehaute":"169475000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"169400000",
+        "Fréquencehaute":"169487500",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Alarmes",
+        "Fréquencebasse":"169475000",
+        "Fréquencehaute":"169487500",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Aides à l'audition",
+        "Fréquencebasse":"169487500",
+        "Fréquencehaute":"169587500",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"169487500",
+        "Fréquencehaute":"169587500",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Alarmes",
+        "Fréquencebasse":"169587500",
+        "Fréquencehaute":"169600000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"169587500",
+        "Fréquencehaute":"169812500",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Aides à l'audition",
+        "Fréquencebasse":"173965000",
+        "Fréquencehaute":"216000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"PMSE",
+        "Fréquencebasse":"174000000",
+        "Fréquencehaute":"223000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/10-0850.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"PMSE",
+        "Fréquencebasse":"174000000",
+        "Fréquencehaute":"223000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/10-0849.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Implants médicaux actifs",
+        "Fréquencebasse":"401000000",
+        "Fréquencehaute":"402000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Implants médicaux actifs",
+        "Fréquencebasse":"402000000",
+        "Fréquencehaute":"405000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Implants médicaux actifs",
+        "Fréquencebasse":"405000000",
+        "Fréquencehaute":"406000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"PMR/PAMR",
+        "Fréquencebasse":"410000000",
+        "Fréquencehaute":"430000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/04-922.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"430000000",
+        "Fréquencehaute":"434000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"433050000",
+        "Fréquencehaute":"434040000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"433050000",
+        "Fréquencehaute":"434040000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"434000000",
+        "Fréquencehaute":"440000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"434040000",
+        "Fréquencehaute":"434790000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"434040000",
+        "Fréquencehaute":"434790000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"434040000",
+        "Fréquencehaute":"434790000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"435000000",
+        "Fréquencehaute":"438000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"438000000",
+        "Fréquencehaute":"440000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"PMR/PAMR",
+        "Fréquencebasse":"446000000",
+        "Fréquencehaute":"446200000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"PMR/PAMR",
+        "Fréquencebasse":"446100000",
+        "Fréquencehaute":"446200000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0926.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"PMR/PAMR",
+        "Fréquencebasse":"446100000",
+        "Fréquencehaute":"446200000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0925.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"PMR/PAMR",
+        "Fréquencebasse":"450000000",
+        "Fréquencehaute":"470000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/04-922.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"PMSE",
+        "Fréquencebasse":"470000000",
+        "Fréquencehaute":"694000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-0830.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"703000000",
+        "Fréquencehaute":"708000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-1569.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"708000000",
+        "Fréquencehaute":"718000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-1568.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"718000000",
+        "Fréquencehaute":"723000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-1566.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"723000000",
+        "Fréquencehaute":"733000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-1567.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"758000000",
+        "Fréquencehaute":"763000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-1569.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"763000000",
+        "Fréquencehaute":"773000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-1568.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"773000000",
+        "Fréquencehaute":"778000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-1566.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"778000000",
+        "Fréquencehaute":"788000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-1567.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"790000000",
+        "Fréquencehaute":"862000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/11-0599.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"791000000",
+        "Fréquencehaute":"801000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-0037.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"801000000",
+        "Fréquencehaute":"811000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-0039.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"811000000",
+        "Fréquencehaute":"821000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-0038.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"PMSE",
+        "Fréquencebasse":"823000000",
+        "Fréquencehaute":"832000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-0830.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"832000000",
+        "Fréquencehaute":"842000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-0037.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"842000000",
+        "Fréquencehaute":"852000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-0039.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"852000000",
+        "Fréquencehaute":"862000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-0038.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"Audio/multimédia sans fil",
+        "Fréquencebasse":"863000000",
+        "Fréquencehaute":"865000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"863000000",
+        "Fréquencehaute":"865000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Transmission de données à large bande",
+        "Fréquencebasse":"863000000",
+        "Fréquencehaute":"868000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"865000000",
+        "Fréquencehaute":"868000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"865000000",
+        "Fréquencehaute":"868000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"RFID",
+        "Fréquencebasse":"865000000",
+        "Fréquencehaute":"868000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"868000000",
+        "Fréquencehaute":"868600000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Alarmes",
+        "Fréquencebasse":"868600000",
+        "Fréquencehaute":"868700000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"868700000",
+        "Fréquencehaute":"869200000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Alarmes",
+        "Fréquencebasse":"869200000",
+        "Fréquencehaute":"869250000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Alarmes",
+        "Fréquencebasse":"869250000",
+        "Fréquencehaute":"869300000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Alarmes",
+        "Fréquencebasse":"869300000",
+        "Fréquencehaute":"869400000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"869400000",
+        "Fréquencehaute":"869650000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Alarmes",
+        "Fréquencebasse":"869650000",
+        "Fréquencehaute":"869700000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"869700000",
+        "Fréquencehaute":"870000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"869700000",
+        "Fréquencehaute":"870000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"PMR/PAMR",
+        "Fréquencebasse":"876000000",
+        "Fréquencehaute":"880000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/16-0941.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"880000000",
+        "Fréquencehaute":"890000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/09-0838.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"890000000",
+        "Fréquencehaute":"900000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/06-0239.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"900000000",
+        "Fréquencehaute":"905000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0043.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"905000000",
+        "Fréquencehaute":"915000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/06-0140.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"PMR/PAMR",
+        "Fréquencebasse":"921000000",
+        "Fréquencehaute":"925000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/16-0941.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"Autres applications",
+        "Fréquencebasse":"925000000",
+        "Fréquencehaute":"960000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/17-1439.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"925000000",
+        "Fréquencehaute":"935000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/09-0838.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"935000000",
+        "Fréquencehaute":"945000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/06-0239.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"945000000",
+        "Fréquencehaute":"950000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0043.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"950000000",
+        "Fréquencehaute":"960000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/06-0140.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"1240000000",
+        "Fréquencehaute":"1300000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"1240000000",
+        "Fréquencehaute":"1300000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"1375000000",
+        "Fréquencehaute":"1400000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"1427000000",
+        "Fréquencehaute":"1452000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1518000000",
+        "Fréquencehaute":"1525000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/05-1050.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1530000000",
+        "Fréquencehaute":"1535000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/09-0487.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1545000000",
+        "Fréquencehaute":"1559000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/09-0487.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1610000000",
+        "Fréquencehaute":"1621350000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-1259.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1621350000",
+        "Fréquencehaute":"1626500000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/04-0311.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1626500000",
+        "Fréquencehaute":"1645500000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/09-0487.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1646500000",
+        "Fréquencehaute":"1660000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/09-0487.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1626500000",
+        "Fréquencehaute":"1645500000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/05-1050.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1646500000",
+        "Fréquencehaute":"1660000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/05-1050.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"Autres applications",
+        "Fréquencebasse":"1710000000",
+        "Fréquencehaute":"1785000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/11-1339.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"Autres applications",
+        "Fréquencebasse":"1710000000",
+        "Fréquencehaute":"1785000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/14-0532.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"Autres applications",
+        "Fréquencebasse":"1710000000",
+        "Fréquencehaute":"1785000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/17-1439.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1710000000",
+        "Fréquencehaute":"1730000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/06-0239.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1730000000",
+        "Fréquencehaute":"1750000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/06-0140.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1750000000",
+        "Fréquencehaute":"1765000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1542.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1765000000",
+        "Fréquencehaute":"1785000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/09-0838.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"PMSE",
+        "Fréquencebasse":"1785000000",
+        "Fréquencehaute":"1805000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/15-0830.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"Autres applications",
+        "Fréquencebasse":"1805000000",
+        "Fréquencehaute":"1880000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/17-1439.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"Autres applications",
+        "Fréquencebasse":"1805000000",
+        "Fréquencehaute":"1880000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/11-1339.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1805000000",
+        "Fréquencehaute":"1825000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/06-0239.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1825000000",
+        "Fréquencehaute":"1845000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/06-0140.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1845000000",
+        "Fréquencehaute":"1860000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1542.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1860000000",
+        "Fréquencehaute":"1880000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/09-0838.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"DECT ou autres téléphones sans fil",
+        "Fréquencebasse":"1880000000",
+        "Fréquencehaute":"1900000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/08-0291.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1900000000",
+        "Fréquencehaute":"1905000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/03-200.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1910000000",
+        "Fréquencehaute":"1915000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/01-648.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1915000000",
+        "Fréquencehaute":"1920000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/01-647.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"Autres applications",
+        "Fréquencebasse":"1920000000",
+        "Fréquencehaute":"1980000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/17-1439.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1920000000",
+        "Fréquencehaute":"1935000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/01-647.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1935000000",
+        "Fréquencehaute":"1950000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/03-200.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1950000000",
+        "Fréquencehaute":"1955000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0634.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1955000000",
+        "Fréquencehaute":"1960000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0043.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1960000000",
+        "Fréquencehaute":"1965000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0633.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"1965000000",
+        "Fréquencehaute":"1980000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/01-648.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1980000000",
+        "Fréquencehaute":"1995000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1257.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"1980000000",
+        "Fréquencehaute":"1995000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/18-0001.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"1995000000",
+        "Fréquencehaute":"2010000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0210.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"PMSE",
+        "Fréquencebasse":"2010000000",
+        "Fréquencehaute":"2025000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/16-1130.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"PMSE",
+        "Fréquencebasse":"2025000000",
+        "Fréquencehaute":"2110000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/16-1130.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"Autres applications",
+        "Fréquencebasse":"2110000000",
+        "Fréquencehaute":"2170000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/17-1439.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2110000000",
+        "Fréquencehaute":"2125000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/01-647.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2125000000",
+        "Fréquencehaute":"2140000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/03-200.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2140000000",
+        "Fréquencehaute":"2145000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0634.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2145000000",
+        "Fréquencehaute":"2150000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0043.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2150000000",
+        "Fréquencehaute":"2155000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0633.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2155000000",
+        "Fréquencehaute":"2170000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/01-648.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"2170000000",
+        "Fréquencehaute":"2185000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1257.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"2170000000",
+        "Fréquencehaute":"2185000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/18-0001.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"2185000000",
+        "Fréquencehaute":"2190000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0210.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"PMSE",
+        "Fréquencebasse":"2200000000",
+        "Fréquencehaute":"2500000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/16-1130.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"2300000000",
+        "Fréquencehaute":"2450000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"2400000000",
+        "Fréquencehaute":"2415000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"2400000000",
+        "Fréquencehaute":"2483500000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"2400000000",
+        "Fréquencehaute":"2483500000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Transmission de données à large bande",
+        "Fréquencebasse":"2400000000",
+        "Fréquencehaute":"2483500000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"2415000000",
+        "Fréquencehaute":"2450000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"RFID",
+        "Fréquencebasse":"2446000000",
+        "Fréquencehaute":"2454000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"2483500000",
+        "Fréquencehaute":"2500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-1259.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service mobile par satellite",
+        "Fréquencebasse":"2483500000",
+        "Fréquencehaute":"2500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/04-0311.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Implants médicaux actifs",
+        "Fréquencebasse":"2483500000",
+        "Fréquencehaute":"2500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"Autres applications",
+        "Fréquencebasse":"2483500000",
+        "Fréquencehaute":"2500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Autres",
+        "Application":"Autres applications",
+        "Fréquencebasse":"2483500000",
+        "Fréquencehaute":"2500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2500000000",
+        "Fréquencehaute":"2515000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/11-1171.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2515000000",
+        "Fréquencehaute":"2535000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/11-1170.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2535000000",
+        "Fréquencehaute":"2550000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/11-1168.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2550000000",
+        "Fréquencehaute":"2570000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/11-1169.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"PMR/PAMR",
+        "Fréquencebasse":"2570000000",
+        "Fréquencehaute":"2620000000",
+        "Lien":"https://www.arcep.fr/demarches-et-services/professionnels/transformation-numerique-des-entreprises/guichet-frequences-2-6-tdd.html"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2620000000",
+        "Fréquencehaute":"2635000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/11-1171.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2635000000",
+        "Fréquencehaute":"2655000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/11-1170.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2655000000",
+        "Fréquencehaute":"2670000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/11-1168.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Réseaux mobiles ouverts au public",
+        "Fréquencebasse":"2670000000",
+        "Fréquencehaute":"2690000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/11-1169.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"PMSE",
+        "Fréquencebasse":"2700000000",
+        "Fréquencehaute":"2900000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/16-1130.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Boucle locale radio",
+        "Fréquencebasse":"3410000000",
+        "Fréquencehaute":"3460000000",
+        "Lien":"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000036210386&categorieLien=id"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"4500000000",
+        "Fréquencehaute":"7000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service fixe par satellite",
+        "Fréquencebasse":"5091000000",
+        "Fréquencehaute":"5092000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-1259.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service fixe par satellite",
+        "Fréquencebasse":"5096960000",
+        "Fréquencehaute":"5249120000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-1259.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Transmission de données à large bande",
+        "Fréquencebasse":"5150000000",
+        "Fréquencehaute":"5350000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/08-0568.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Transmission de données à large bande",
+        "Fréquencebasse":"5470000000",
+        "Fréquencehaute":"5725000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/08-0568.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"5650000000",
+        "Fréquencehaute":"5850000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"5650000000",
+        "Fréquencehaute":"5725000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"5725000000",
+        "Fréquencehaute":"5875000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"5795000000",
+        "Fréquencehaute":"5815000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"5830000000",
+        "Fréquencehaute":"5850000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"5925000000",
+        "Fréquencehaute":"6425000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"6000000000",
+        "Fréquencehaute":"8500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"6169745000",
+        "Fréquencehaute":"6180245000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"6424553000",
+        "Fréquencehaute":"6435053000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"6425000000",
+        "Fréquencehaute":"7110000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"6763000000",
+        "Fréquencehaute":"6777000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service fixe par satellite",
+        "Fréquencebasse":"6875900000",
+        "Fréquencehaute":"6879100000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-1259.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service fixe par satellite",
+        "Fréquencebasse":"6900000000",
+        "Fréquencehaute":"7052900000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-1259.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"7105500000",
+        "Fréquencehaute":"7119500000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"PMSE",
+        "Application":"PMSE",
+        "Fréquencebasse":"7110000000",
+        "Fréquencehaute":"7250000000",
+        "Lien":"https://www.arcep.fr/uploads/tx_gsavis/16-1130.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"8025000000",
+        "Fréquencehaute":"8500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"8500000000",
+        "Fréquencehaute":"10600000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"10000000000",
+        "Fréquencehaute":"10450000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"10450000000",
+        "Fréquencehaute":"10500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"10450000000",
+        "Fréquencehaute":"10500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"10700000000",
+        "Fréquencehaute":"11700000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"10700000000",
+        "Fréquencehaute":"11700000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0372.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"10700000000",
+        "Fréquencehaute":"11700000000",
+        "Lien":"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023505220&categorieLien=id"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"10700000000",
+        "Fréquencehaute":"11700000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-1183.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"AES",
+        "Fréquencebasse":"10700000000",
+        "Fréquencehaute":"11700000000",
+        "Lien":"https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=99568DA917518B9FA67884C187873AB8.tpdila07v_2?cidTexte=JORFTEXT000023505162&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000023502765"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"12500000000",
+        "Fréquencehaute":"12750000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0372.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"12500000000",
+        "Fréquencehaute":"12750000000",
+        "Lien":"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023505220&categorieLien=id"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"12500000000",
+        "Fréquencehaute":"12750000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-1183.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"AES",
+        "Fréquencebasse":"12500000000",
+        "Fréquencehaute":"12750000000",
+        "Lien":"https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=99568DA917518B9FA67884C187873AB8.tpdila07v_2?cidTexte=JORFTEXT000023505162&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000023502765"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"12750000000",
+        "Fréquencehaute":"13250000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"14000000000",
+        "Fréquencehaute":"14250000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0372.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"14000000000",
+        "Fréquencehaute":"14500000000",
+        "Lien":"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023505220&categorieLien=id"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"14000000000",
+        "Fréquencehaute":"14500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-1183.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"AES",
+        "Fréquencebasse":"14000000000",
+        "Fréquencehaute":"14500000000",
+        "Lien":"https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=99568DA917518B9FA67884C187873AB8.tpdila07v_2?cidTexte=JORFTEXT000023505162&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000023502765"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"14250000000",
+        "Fréquencehaute":"14500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0275.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"17100000000",
+        "Fréquencehaute":"17300000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"17300000000",
+        "Fréquencehaute":"20200000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-0231.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"17700000000",
+        "Fréquencehaute":"19700000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"17700000000",
+        "Fréquencehaute":"20200000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0372.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service fixe par satellite",
+        "Fréquencebasse":"19803750000",
+        "Fréquencehaute":"19833750000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-0630.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Stations terriennes du service fixe par satellite",
+        "Fréquencebasse":"20066250000",
+        "Fréquencehaute":"20096250000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-0630.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"21650000000",
+        "Fréquencehaute":"24250000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-0614.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"22000000000",
+        "Fréquencehaute":"22600000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"22758750000",
+        "Fréquencehaute":"22842750000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"23000000000",
+        "Fréquencehaute":"23600000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"24000000000",
+        "Fréquencehaute":"24050000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"24000000000",
+        "Fréquencehaute":"24050000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"24000000000",
+        "Fréquencehaute":"24100000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"24050000000",
+        "Fréquencehaute":"24250000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"24050000000",
+        "Fréquencehaute":"24250000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"24050000000",
+        "Fréquencehaute":"26500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"24050000000",
+        "Fréquencehaute":"27000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"24050000000",
+        "Fréquencehaute":"24075000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"24075000000",
+        "Fréquencehaute":"24150000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"24075000000",
+        "Fréquencehaute":"24150000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"24100000000",
+        "Fréquencehaute":"24150000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"24150000000",
+        "Fréquencehaute":"24250000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"24150000000",
+        "Fréquencehaute":"24250000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"24250000000",
+        "Fréquencehaute":"24495000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"24250000000",
+        "Fréquencehaute":"24500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"24495000000",
+        "Fréquencehaute":"24500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"24549000000",
+        "Fréquencehaute":"25445000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"27500000000",
+        "Fréquencehaute":"30000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-0231.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"29500000000",
+        "Fréquencehaute":"30000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/10-0372.pdf"
+    },
+    {
+        "Catégorie":"Satellite",
+        "Application":"Systèmes par satellite",
+        "Fréquencebasse":"29612500000",
+        "Fréquencehaute":"29625000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-0231.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"31871000000",
+        "Fréquencehaute":"32543000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"32683000000",
+        "Fréquencehaute":"33355000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"37268000000",
+        "Fréquencehaute":"38220000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"38528000000",
+        "Fréquencehaute":"39480000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"47000000000",
+        "Fréquencehaute":"47200000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"47000000000",
+        "Fréquencehaute":"47200000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"57000000000",
+        "Fréquencehaute":"64000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"57000000000",
+        "Fréquencehaute":"64000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"57000000000",
+        "Fréquencehaute":"64000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Réseaux mobile et THD",
+        "Application":"Transmission de données à large bande",
+        "Fréquencebasse":"57000000000",
+        "Fréquencehaute":"66000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"61000000000",
+        "Fréquencehaute":"61500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"63000000000",
+        "Fréquencehaute":"64000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"71000000000",
+        "Fréquencehaute":"76000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"75000000000",
+        "Fréquencehaute":"85000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Application de radiorepérage",
+        "Fréquencebasse":"75000000000",
+        "Fréquencehaute":"85000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"76000000000",
+        "Fréquencehaute":"77500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"76000000000",
+        "Fréquencehaute":"77500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"76000000000",
+        "Fréquencehaute":"77000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Systèmes télématiques pour la circulation et le transport",
+        "Fréquencebasse":"77000000000",
+        "Fréquencehaute":"81000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"77500000000",
+        "Fréquencehaute":"78000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"77500000000",
+        "Fréquencehaute":"78000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"78000000000",
+        "Fréquencehaute":"81500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"78000000000",
+        "Fréquencehaute":"81500000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"81000000000",
+        "Fréquencehaute":"86000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+    },
+    {
+        "Catégorie":"Faisceaux hertziens",
+        "Application":"Faisceaux hertziens (FH)",
+        "Fréquencebasse":"81000000000",
+        "Fréquencehaute":"86000000000",
+        "Lien":"http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023274702&fastPos=2&fastReqId=1184868722&categorieLien=id&oldAction=rechTexte"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"122000000000",
+        "Fréquencehaute":"122250000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"122250000000",
+        "Fréquencehaute":"123000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"122250000000",
+        "Fréquencehaute":"123000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"134000000000",
+        "Fréquencehaute":"136000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"134000000000",
+        "Fréquencehaute":"136000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"136000000000",
+        "Fréquencehaute":"141000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"136000000000",
+        "Fréquencehaute":"141000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"241000000000",
+        "Fréquencehaute":"248000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"241000000000",
+        "Fréquencehaute":"248000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Objets/IoT",
+        "Application":"Non-spécifique",
+        "Fréquencebasse":"244000000000",
+        "Fréquencehaute":"246000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur",
+        "Fréquencebasse":"248000000000",
+        "Fréquencehaute":"250000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    },
+    {
+        "Catégorie":"Amateur",
+        "Application":"Amateur-satellite",
+        "Fréquencebasse":"248000000000",
+        "Fréquencehaute":"250000000000",
+        "Lien":"http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+    }
+]

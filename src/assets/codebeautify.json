@@ -1,0 +1,2750 @@
+﻿[
+	{
+		"Catégorie": "Tous",
+		"Application": "Tous",
+		"Exemples spécifiques à la bande": "Tous",
+		"Fréquencebasse": "0",
+		"Fréquencehaute": "999999",
+		"Différence": "999 999",
+		"Décisions": ""
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "Radar",
+		"Fréquencebasse": "0",
+		"Fréquencehaute": "999999",
+		"Différence": "999 999",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "Plaques à induction",
+		"Fréquencebasse": "9000",
+		"Fréquencehaute": "59750",
+		"Différence": "50 750",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Implants médicaux actifs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "9000",
+		"Fréquencehaute": "315000",
+		"Différence": "306 000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Autres",
+		"Application": "Autres applications",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "9000",
+		"Fréquencehaute": "999999",
+		"Différence": "990 999",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1487.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "59750",
+		"Fréquencehaute": "60250",
+		"Différence": "500",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "60250",
+		"Fréquencehaute": "74750",
+		"Différence": "14 500",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "74750",
+		"Fréquencehaute": "75250",
+		"Différence": "500",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "75250",
+		"Fréquencehaute": "77250",
+		"Différence": "2 000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "77250",
+		"Fréquencehaute": "77750",
+		"Différence": "500",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "77750",
+		"Fréquencehaute": "90000",
+		"Différence": "12 250",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "90000",
+		"Fréquencehaute": "119000",
+		"Différence": "29 000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "119000",
+		"Fréquencehaute": "135000",
+		"Différence": "16 000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "135000",
+		"Fréquencehaute": "148500",
+		"Différence": "13 500",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "135700",
+		"Fréquencehaute": "137800",
+		"Différence": "2 100",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "148500",
+		"Fréquencehaute": "999999",
+		"Différence": "851 499",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Implants médicaux actifs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "315000",
+		"Fréquencehaute": "600000",
+		"Différence": "285 000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "RFID",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "400000",
+		"Fréquencehaute": "600000",
+		"Différence": "200 000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "Dispositifs de détection de personnes ensevelies et d'objets de valeur",
+		"Fréquencebasse": "456900",
+		"Fréquencehaute": "457100",
+		"Différence": "200",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "472000",
+		"Fréquencehaute": "479000",
+		"Différence": "7 000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "984000",
+		"Fréquencehaute": "999999",
+		"Différence": "15 999",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Tous",
+		"Application": "Tous",
+		"Exemples spécifiques à la bande": "Tous",
+		"Fréquencebasse": "1000000",
+		"Fréquencehaute": "999999999",
+		"Différence": "998999999",
+		"Décisions": ""
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "Radar",
+		"Fréquencebasse": "1000000",
+		"Fréquencehaute": "999999999",
+		"Différence": "998999999",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Autres",
+		"Application": "Autres applications",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1000000",
+		"Fréquencehaute": "999999999",
+		"Différence": "998999999",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1487.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1000000",
+		"Fréquencehaute": "5000000",
+		"Différence": "4000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1000000",
+		"Fréquencehaute": "7484000",
+		"Différence": "6484000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1800000",
+		"Fréquencehaute": "1810000",
+		"Différence": "10000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1810000",
+		"Fréquencehaute": "1850000",
+		"Différence": "40000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1850000",
+		"Fréquencehaute": "2000000",
+		"Différence": "150000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "3155000",
+		"Fréquencehaute": "3400000",
+		"Différence": "245000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "3500000",
+		"Fréquencehaute": "3750000",
+		"Différence": "250000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "3750000",
+		"Fréquencehaute": "3800000",
+		"Différence": "50000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "3800000",
+		"Fréquencehaute": "4000000",
+		"Différence": "200000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "5000000",
+		"Fréquencehaute": "30000000",
+		"Différence": "25000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "6765000",
+		"Fréquencehaute": "6795000",
+		"Différence": "30000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "6765000",
+		"Fréquencehaute": "6795000",
+		"Différence": "30000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "7000000",
+		"Fréquencehaute": "7100000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "7000000",
+		"Fréquencehaute": "7100000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "7100000",
+		"Fréquencehaute": "7200000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "7200000",
+		"Fréquencehaute": "7300000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "7300000",
+		"Fréquencehaute": "23000000",
+		"Différence": "15700000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "7400000",
+		"Fréquencehaute": "8800000",
+		"Différence": "1400000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "10100000",
+		"Fréquencehaute": "10150000",
+		"Différence": "50000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "10200000",
+		"Fréquencehaute": "11000000",
+		"Différence": "800000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Implants médicaux actifs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "12500000",
+		"Fréquencehaute": "20000000",
+		"Différence": "7500000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "13553000",
+		"Fréquencehaute": "13567000",
+		"Différence": "14000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "RFID",
+		"Exemples spécifiques à la bande": "Technologie NFC (Near Field Communication / Communication en champ proche) : cartes de transport",
+		"Fréquencebasse": " paiement sans contact",
+		"Fréquencehaute": "13553000",
+		"Différence": "13567000",
+		"Décisions": "FALSEFALSE"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "14000000",
+		"Fréquencehaute": "14250000",
+		"Différence": "250000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "14000000",
+		"Fréquencehaute": "14250000",
+		"Différence": "250000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "14250000",
+		"Fréquencehaute": "14350000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "18068000",
+		"Fréquencehaute": "18168000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "18068000",
+		"Fréquencehaute": "18168000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "21000000",
+		"Fréquencehaute": "21450000",
+		"Différence": "450000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "21000000",
+		"Fréquencehaute": "21450000",
+		"Différence": "450000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24890000",
+		"Fréquencehaute": "24990000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24890000",
+		"Fréquencehaute": "24990000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Commandes de modèles réduits",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "26810000",
+		"Fréquencehaute": "26920000",
+		"Différence": "110000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Applications inductives",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "26957000",
+		"Fréquencehaute": "27283000",
+		"Différence": "326000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "26957000",
+		"Fréquencehaute": "27283000",
+		"Différence": "326000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "26990000",
+		"Fréquencehaute": "27000000",
+		"Différence": "10000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "27040000",
+		"Fréquencehaute": "27050000",
+		"Différence": "10000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "27090000",
+		"Fréquencehaute": "27100000",
+		"Différence": "10000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "27140000",
+		"Fréquencehaute": "27150000",
+		"Différence": "10000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "27190000",
+		"Fréquencehaute": "27200000",
+		"Différence": "10000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "28000000",
+		"Fréquencehaute": "29700000",
+		"Différence": "1700000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "28000000",
+		"Fréquencehaute": "29700000",
+		"Différence": "1700000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Implants médicaux actifs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "30000000",
+		"Fréquencehaute": "37500000",
+		"Différence": "7500000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Commandes de modèles réduits",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "34995000",
+		"Fréquencehaute": "35055000",
+		"Différence": "60000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Commandes de modèles réduits",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "40660000",
+		"Fréquencehaute": "40700000",
+		"Différence": "40000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "40660000",
+		"Fréquencehaute": "40700000",
+		"Différence": "40000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Commandes de modèles réduits",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "41055000",
+		"Fréquencehaute": "41205000",
+		"Différence": "150000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "50000000",
+		"Fréquencehaute": "52000000",
+		"Différence": "2000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "52000000",
+		"Fréquencehaute": "54000000",
+		"Différence": "2000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Commandes de modèles réduits",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "72200000",
+		"Fréquencehaute": "72500000",
+		"Différence": "300000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "Audio/multimédia sans fil",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "87500000",
+		"Fréquencehaute": "108000000",
+		"Différence": "20500000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "144000000",
+		"Fréquencehaute": "146000000",
+		"Différence": "2000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "144000000",
+		"Fréquencehaute": "146000000",
+		"Différence": "2000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "146000000",
+		"Fréquencehaute": "148000000",
+		"Différence": "2000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Aides à l'audition",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "169400000",
+		"Fréquencehaute": "169475000",
+		"Différence": "75000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Mesures",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "169400000",
+		"Fréquencehaute": "169475000",
+		"Différence": "75000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "169400000",
+		"Fréquencehaute": "169487500",
+		"Différence": "87500",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Alarmes",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "169475000",
+		"Fréquencehaute": "169487500",
+		"Différence": "12500",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Aides à l'audition",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "169487500",
+		"Fréquencehaute": "169587500",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "169487500",
+		"Fréquencehaute": "169587500",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Alarmes",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "169587500",
+		"Fréquencehaute": "169600000",
+		"Différence": "12500",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "169587500",
+		"Fréquencehaute": "169812500",
+		"Différence": "225000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "PMSE",
+		"Exemples spécifiques à la bande": "Transmission audio sans fil pour l'événementiel : microphones sans fil dans les salles de spectacle",
+		"Fréquencebasse": " concert",
+		"Fréquencehaute": " festival…",
+		"Différence": "174000000",
+		"Décisions": "49000000"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "220000000",
+		"Fréquencehaute": "225000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Implants médicaux actifs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "401000000",
+		"Fréquencehaute": "402000000",
+		"Différence": "1000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Implants médicaux actifs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "402000000",
+		"Fréquencehaute": "405000000",
+		"Différence": "3000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Implants médicaux actifs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "405000000",
+		"Fréquencehaute": "406000000",
+		"Différence": "1000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "PMR/PAMR",
+		"Exemples spécifiques à la bande": "Communication sécurisée pour les professionnels : réseau de transport",
+		"Fréquencebasse": " sécurité des événements…",
+		"Fréquencehaute": "410000000",
+		"Différence": "430000000",
+		"Décisions": "FALSEFALSE"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "430000000",
+		"Fréquencehaute": "434000000",
+		"Différence": "4000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "433050000",
+		"Fréquencehaute": "434040000",
+		"Différence": "990000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "434000000",
+		"Fréquencehaute": "440000000",
+		"Différence": "6000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "434040000",
+		"Fréquencehaute": "434790000",
+		"Différence": "750000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "435000000",
+		"Fréquencehaute": "438000000",
+		"Différence": "3000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "438000000",
+		"Fréquencehaute": "440000000",
+		"Différence": "2000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "PMR/PAMR",
+		"Exemples spécifiques à la bande": "Communication grand public : talkie walkie…",
+		"Fréquencebasse": "446100000",
+		"Fréquencehaute": "446200000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0926.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "PMR/PAMR",
+		"Exemples spécifiques à la bande": "Communication sécurisée pour les professionnels : réseau de transport",
+		"Fréquencebasse": " sécurité des événements…",
+		"Fréquencehaute": "450000000",
+		"Différence": "470000000",
+		"Décisions": "FALSEFALSE"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "PMSE",
+		"Exemples spécifiques à la bande": "Transmission audio sans fil pour l'événementiel : microphones sans fil dans les salles de spectacle",
+		"Fréquencebasse": " concert",
+		"Fréquencehaute": " festival…",
+		"Différence": "470000000",
+		"Décisions": "224000000"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "703000000",
+		"Fréquencehaute": "708000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/15-1569.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "708000000",
+		"Fréquencehaute": "718000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/15-1568.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "718000000",
+		"Fréquencehaute": "723000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/15-1566.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Free",
+		"Fréquencebasse": "723000000",
+		"Fréquencehaute": "733000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/15-1567.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "758000000",
+		"Fréquencehaute": "763000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/15-1569.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "763000000",
+		"Fréquencehaute": "773000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/15-1568.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "773000000",
+		"Fréquencehaute": "778000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/15-1566.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Free",
+		"Fréquencebasse": "778000000",
+		"Fréquencehaute": "788000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/15-1567.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes de Terre permettant de fournir des services de communications électroniques",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "790000000",
+		"Fréquencehaute": "862000000",
+		"Différence": "72000000",
+		"Décisions": "https://www.arcep.fr/uploads/tx_gsavis/11-0599.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "791000000",
+		"Fréquencehaute": "801000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-0037.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "801000000",
+		"Fréquencehaute": "811000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-0039.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "811000000",
+		"Fréquencehaute": "821000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-0038.pdf"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "PMSE",
+		"Exemples spécifiques à la bande": "Transmission audio sans fil pour l'événementiel : microphones sans fil dans les salles de spectacle",
+		"Fréquencebasse": " concert",
+		"Fréquencehaute": " festival…",
+		"Différence": "823000000",
+		"Décisions": "9000000"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "832000000",
+		"Fréquencehaute": "842000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-0037.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "842000000",
+		"Fréquencehaute": "852000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-0039.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "852000000",
+		"Fréquencehaute": "862000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-0038.pdf"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "Audio/multimédia sans fil",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "863000000",
+		"Fréquencehaute": "865000000",
+		"Différence": "2000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "863000000",
+		"Fréquencehaute": "865000000",
+		"Différence": "2000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "865000000",
+		"Fréquencehaute": "868000000",
+		"Différence": "3000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "RFID",
+		"Exemples spécifiques à la bande": "Suivi des trains",
+		"Fréquencebasse": "865000000",
+		"Fréquencehaute": "865600000",
+		"Différence": "600000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "RFID",
+		"Exemples spécifiques à la bande": "Suivi des trains",
+		"Fréquencebasse": "865600000",
+		"Fréquencehaute": "867600000",
+		"Différence": "2000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "RFID",
+		"Exemples spécifiques à la bande": "Suivi des trains",
+		"Fréquencebasse": "867600000",
+		"Fréquencehaute": "868000000",
+		"Différence": "400000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "Protocoles de communication IoT : Sigfox",
+		"Fréquencebasse": " Zigbee",
+		"Fréquencehaute": " LoRa…",
+		"Différence": "868000000",
+		"Décisions": "600000"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Alarmes",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "868600000",
+		"Fréquencehaute": "868700000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "868700000",
+		"Fréquencehaute": "869200000",
+		"Différence": "500000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Alarmes",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "869200000",
+		"Fréquencehaute": "869250000",
+		"Différence": "50000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Alarmes",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "869250000",
+		"Fréquencehaute": "869300000",
+		"Différence": "50000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "869300000",
+		"Fréquencehaute": "869400000",
+		"Différence": "100000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "869400000",
+		"Fréquencehaute": "869650000",
+		"Différence": "250000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Alarmes",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "869650000",
+		"Fréquencehaute": "869700000",
+		"Différence": "50000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "869700000",
+		"Fréquencehaute": "870000000",
+		"Différence": "300000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "880000000",
+		"Fréquencehaute": "890000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/09-0838.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "890000000",
+		"Fréquencehaute": "900000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/06-0239.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Free",
+		"Fréquencebasse": "900000000",
+		"Fréquencehaute": "905000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0043.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "905000000",
+		"Fréquencehaute": "915000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/06-0140.pdf"
+	},
+	{
+		"Catégorie": "Autres",
+		"Application": "Autres applications",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "925000000",
+		"Fréquencehaute": "960000000",
+		"Différence": "35000000",
+		"Décisions": "https://www.arcep.fr/uploads/tx_gsavis/17-1439.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "925000000",
+		"Fréquencehaute": "935000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/09-0838.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "935000000",
+		"Fréquencehaute": "945000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/06-0239.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Free",
+		"Fréquencebasse": "945000000",
+		"Fréquencehaute": "950000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0043.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "950000000",
+		"Fréquencehaute": "960000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/06-0140.pdf"
+	},
+	{
+		"Catégorie": "Tous",
+		"Application": "Tous",
+		"Exemples spécifiques à la bande": "Tous",
+		"Fréquencebasse": "1000000000",
+		"Fréquencehaute": "275000000000",
+		"Différence": "274000000000",
+		"Décisions": ""
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "Radar",
+		"Fréquencebasse": "1000000000",
+		"Fréquencehaute": "1600000000",
+		"Différence": "600000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Autres",
+		"Application": "Autres applications",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1000000000",
+		"Fréquencehaute": "275000000000",
+		"Différence": "274000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1487.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1240000000",
+		"Fréquencehaute": "1300000000",
+		"Différence": "60000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1240000000",
+		"Fréquencehaute": "1300000000",
+		"Différence": "60000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1375000000",
+		"Fréquencehaute": "1400000000",
+		"Différence": "25000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1427000000",
+		"Fréquencehaute": "1452000000",
+		"Différence": "25000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1600000000",
+		"Fréquencehaute": "2700000000",
+		"Différence": "1100000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/09-0487.pdf"
+	},
+	{
+		"Catégorie": "Autres",
+		"Application": "Autres applications",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1710000000",
+		"Fréquencehaute": "1785000000",
+		"Différence": "75000000",
+		"Décisions": "https://www.arcep.fr/uploads/tx_gsavis/11-1339.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "1710000000",
+		"Fréquencehaute": "1730000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/06-0239.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "1730000000",
+		"Fréquencehaute": "1750000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/06-0140.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Free",
+		"Fréquencebasse": "1750000000",
+		"Fréquencehaute": "1765000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1542.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "1765000000",
+		"Fréquencehaute": "1785000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/09-0838.pdf"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "PMSE",
+		"Exemples spécifiques à la bande": "Transmission audio sans fil pour l'événementiel : microphones sans fil dans les salles de spectacle",
+		"Fréquencebasse": " concert",
+		"Fréquencehaute": " festival…",
+		"Différence": "1785000000",
+		"Décisions": "20000000"
+	},
+	{
+		"Catégorie": "Autres",
+		"Application": "Autres applications",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1805000000",
+		"Fréquencehaute": "1880000000",
+		"Différence": "75000000",
+		"Décisions": "https://www.arcep.fr/uploads/tx_gsavis/17-1439.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Communications mobiles à bord des navires",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1805000000",
+		"Fréquencehaute": "1880000000",
+		"Différence": "75000000",
+		"Décisions": "https://www.arcep.fr/uploads/tx_gsavis/11-1339.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "1805000000",
+		"Fréquencehaute": "1825000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/06-0239.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "1825000000",
+		"Fréquencehaute": "1845000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/06-0140.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Free",
+		"Fréquencebasse": "1845000000",
+		"Fréquencehaute": "1860000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1542.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "1860000000",
+		"Fréquencehaute": "1880000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/09-0838.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "1900000000",
+		"Fréquencehaute": "1905000000",
+		"Différence": "5000000",
+		"Décisions": ""
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "1910000000",
+		"Fréquencehaute": "1915000000",
+		"Différence": "5000000",
+		"Décisions": ""
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "1915000000",
+		"Fréquencehaute": "1920000000",
+		"Différence": "5000000",
+		"Décisions": ""
+	},
+	{
+		"Catégorie": "Autres",
+		"Application": "Autres applications",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "1920000000",
+		"Fréquencehaute": "1980000000",
+		"Différence": "60000000",
+		"Décisions": "https://www.arcep.fr/uploads/tx_gsavis/17-1439.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "1920000000",
+		"Fréquencehaute": "1935000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/01-647.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "1935000000",
+		"Fréquencehaute": "1950000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/03-200.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "1950000000",
+		"Fréquencehaute": "1955000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0634.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Free",
+		"Fréquencebasse": "1955000000",
+		"Fréquencehaute": "1960000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0043.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "1960000000",
+		"Fréquencehaute": "1965000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0633.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "1965000000",
+		"Fréquencehaute": "1980000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/01-648.pdf"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "FH Vidéo PMSE",
+		"Exemples spécifiques à la bande": "Transmission vidéo sans fil pour l'événementiel : Tour de France",
+		"Fréquencebasse": " Roland Garros…",
+		"Fréquencehaute": "2010000000",
+		"Différence": "2025000000",
+		"Décisions": "FALSEFALSE"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "FH Vidéo PMSE",
+		"Exemples spécifiques à la bande": "Transmission vidéo sans fil pour l'événementiel : Tour de France",
+		"Fréquencebasse": " Roland Garros…",
+		"Fréquencehaute": "2025000000",
+		"Différence": "2110000000",
+		"Décisions": "FALSEFALSE"
+	},
+	{
+		"Catégorie": "Autres",
+		"Application": "Autres applications",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "2110000000",
+		"Fréquencehaute": "2170000000",
+		"Différence": "60000000",
+		"Décisions": "https://www.arcep.fr/uploads/tx_gsavis/17-1439.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "2110000000",
+		"Fréquencehaute": "2125000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/01-647.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "2125000000",
+		"Fréquencehaute": "2140000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/03-200.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "2140000000",
+		"Fréquencehaute": "2145000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0634.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Free",
+		"Fréquencebasse": "2145000000",
+		"Fréquencehaute": "2150000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0043.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "2150000000",
+		"Fréquencehaute": "2155000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0633.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "2155000000",
+		"Fréquencehaute": "2170000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/01-648.pdf"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "FH Vidéo PMSE",
+		"Exemples spécifiques à la bande": "Transmission vidéo sans fil pour l'événementiel : Tour de France",
+		"Fréquencebasse": " Roland Garros…",
+		"Fréquencehaute": "2200000000",
+		"Différence": "2500000000",
+		"Décisions": "FALSEFALSE"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "2300000000",
+		"Fréquencehaute": "2450000000",
+		"Différence": "150000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "2400000000",
+		"Fréquencehaute": "2415000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "2400000000",
+		"Fréquencehaute": "2483500000",
+		"Différence": "83500000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "2400000000",
+		"Fréquencehaute": "2483500000",
+		"Différence": "83500000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Transmission de données à large bande",
+		"Exemples spécifiques à la bande": "Wi-Fi",
+		"Fréquencebasse": " Bluetooth",
+		"Fréquencehaute": "2400000000",
+		"Différence": "2483500000",
+		"Décisions": "FALSEFALSE"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "2415000000",
+		"Fréquencehaute": "2450000000",
+		"Différence": "35000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "RFID",
+		"Exemples spécifiques à la bande": "Télépéage",
+		"Fréquencebasse": "2446000000",
+		"Fréquencehaute": "2454000000",
+		"Différence": "8000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Implants médicaux actifs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "2483500000",
+		"Fréquencehaute": "2500000000",
+		"Différence": "16500000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes de Terre permettant de fournir des services de communications électroniques",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "2500000000",
+		"Fréquencehaute": "2690000000",
+		"Différence": "190000000",
+		"Décisions": "https://www.arcep.fr/uploads/tx_gsavis/11-0597.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "2500000000",
+		"Fréquencehaute": "2515000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1171.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "2515000000",
+		"Fréquencehaute": "2535000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1170.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "2535000000",
+		"Fréquencehaute": "2550000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1168.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Free",
+		"Fréquencebasse": "2550000000",
+		"Fréquencehaute": "2570000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1169.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "SFR",
+		"Fréquencebasse": "2620000000",
+		"Fréquencehaute": "2635000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1171.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Orange",
+		"Fréquencebasse": "2635000000",
+		"Fréquencehaute": "2655000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1170.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Bouygues Télécom",
+		"Fréquencebasse": "2655000000",
+		"Fréquencehaute": "2670000000",
+		"Différence": "15000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1168.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Réseaux mobiles ouverts au public",
+		"Exemples spécifiques à la bande": "Free",
+		"Fréquencebasse": "2670000000",
+		"Fréquencehaute": "2690000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/11-1169.pdf"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "FH Vidéo PMSE",
+		"Exemples spécifiques à la bande": "Transmission vidéo sans fil pour l'événementiel : Tour de France",
+		"Fréquencebasse": " Roland Garros…",
+		"Fréquencehaute": "2700000000",
+		"Différence": "2900000000",
+		"Décisions": "FALSEFALSE"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "2700000000",
+		"Fréquencehaute": "3100000000",
+		"Différence": "400000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "3100000000",
+		"Fréquencehaute": "3400000000",
+		"Différence": "300000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "3300000000",
+		"Fréquencehaute": "3500000000",
+		"Différence": "200000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "3400000000",
+		"Fréquencehaute": "3500000000",
+		"Différence": "100000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "3400000000",
+		"Fréquencehaute": "3800000000",
+		"Différence": "400000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Boucle locale radio",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "3410000000",
+		"Fréquencehaute": "3460000000",
+		"Différence": "50000000",
+		"Décisions": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000036210386&categorieLien=id"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "3800000000",
+		"Fréquencehaute": "4800000000",
+		"Différence": "1000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "4500000000",
+		"Fréquencehaute": "7000000000",
+		"Différence": "2500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "4800000000",
+		"Fréquencehaute": "6000000000",
+		"Différence": "1200000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Transmission de données à large bande",
+		"Exemples spécifiques à la bande": "Wi-Fi 5 GHz",
+		"Fréquencebasse": "5150000000",
+		"Fréquencehaute": "5350000000",
+		"Différence": "200000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/08-0568.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Transmission de données à large bande",
+		"Exemples spécifiques à la bande": "Wi-Fi 5 GHz",
+		"Fréquencebasse": "5470000000",
+		"Fréquencehaute": "5725000000",
+		"Différence": "255000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/08-0568.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "5650000000",
+		"Fréquencehaute": "5850000000",
+		"Différence": "200000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "5650000000",
+		"Fréquencehaute": "5725000000",
+		"Différence": "75000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "5725000000",
+		"Fréquencehaute": "5875000000",
+		"Différence": "150000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "5795000000",
+		"Fréquencehaute": "5805000000",
+		"Différence": "10000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "5830000000",
+		"Fréquencehaute": "5850000000",
+		"Différence": "20000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "5850000000",
+		"Fréquencehaute": "5925000000",
+		"Différence": "75000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "Véhicules connectés",
+		"Fréquencebasse": "5875000000",
+		"Fréquencehaute": "5905000000",
+		"Différence": "30000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0853.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "5925000000",
+		"Fréquencehaute": "6425000000",
+		"Différence": "500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "6000000000",
+		"Fréquencehaute": "8500000000",
+		"Différence": "2500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "6000000000",
+		"Fréquencehaute": "8500000000",
+		"Différence": "2500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "6169745000",
+		"Fréquencehaute": "6180245000",
+		"Différence": "10500000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "6424553000",
+		"Fréquencehaute": "6435053000",
+		"Différence": "10500000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "6425000000",
+		"Fréquencehaute": "7110000000",
+		"Différence": "685000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "6763000000",
+		"Fréquencehaute": "6777000000",
+		"Différence": "14000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "7105500000",
+		"Fréquencehaute": "7119500000",
+		"Différence": "14000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "PMSE",
+		"Application": "FH Vidéo PMSE",
+		"Exemples spécifiques à la bande": "Transmission vidéo sans fil pour l'événementiel : Tour de France",
+		"Fréquencebasse": " Roland Garros…",
+		"Fréquencehaute": "7110000000",
+		"Différence": "7250000000",
+		"Décisions": "FALSEFALSE"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "8025000000",
+		"Fréquencehaute": "8500000000",
+		"Différence": "475000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "8500000000",
+		"Fréquencehaute": "10600000000",
+		"Différence": "2100000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "8500000000",
+		"Fréquencehaute": "9000000000",
+		"Différence": "500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Applications à bande ultralarge (UWB)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "9000000000",
+		"Fréquencehaute": "10600000000",
+		"Différence": "1600000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "10000000000",
+		"Fréquencehaute": "10450000000",
+		"Différence": "450000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "10450000000",
+		"Fréquencehaute": "10500000000",
+		"Différence": "50000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "10450000000",
+		"Fréquencehaute": "10500000000",
+		"Différence": "50000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "10700000000",
+		"Fréquencehaute": "11700000000",
+		"Différence": "1000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Liaisons vidéo temporaires par satellite (SNG)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "10700000000",
+		"Fréquencehaute": "11700000000",
+		"Différence": "1000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0372.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Services de communications par satellite à bord de navires",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "10700000000",
+		"Fréquencehaute": "11700000000",
+		"Différence": "1000000000",
+		"Décisions": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023505220&categorieLien=id"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Services de communications par satellite à bord d'aéronefs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "10700000000",
+		"Fréquencehaute": "11700000000",
+		"Différence": "1000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-1183.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "AES",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "10700000000",
+		"Fréquencehaute": "11700000000",
+		"Différence": "1000000000",
+		"Décisions": "https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=99568DA917518B9FA67884C187873AB8.tpdila07v_2?cidTexte=JORFTEXT000023505162&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000023502765"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Liaisons vidéo temporaires par satellite (SNG)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "12500000000",
+		"Fréquencehaute": "12750000000",
+		"Différence": "250000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0372.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Services de communications par satellite à bord de navires",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "12500000000",
+		"Fréquencehaute": "12750000000",
+		"Différence": "250000000",
+		"Décisions": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023505220&categorieLien=id"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Services de communications par satellite à bord d'aéronefs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "12500000000",
+		"Fréquencehaute": "12750000000",
+		"Différence": "250000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-1183.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "AES",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "12500000000",
+		"Fréquencehaute": "12750000000",
+		"Différence": "250000000",
+		"Décisions": "https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=99568DA917518B9FA67884C187873AB8.tpdila07v_2?cidTexte=JORFTEXT000023505162&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000023502765"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "12750000000",
+		"Fréquencehaute": "13250000000",
+		"Différence": "500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Liaisons vidéo temporaires par satellite (SNG)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "14000000000",
+		"Fréquencehaute": "14250000000",
+		"Différence": "250000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0372.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Services de communications par satellite à bord de navires",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "14000000000",
+		"Fréquencehaute": "14500000000",
+		"Différence": "500000000",
+		"Décisions": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023505220&categorieLien=id"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Services de communications par satellite à bord d'aéronefs",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "14000000000",
+		"Fréquencehaute": "14500000000",
+		"Différence": "500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-1183.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "AES",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "14000000000",
+		"Fréquencehaute": "14500000000",
+		"Différence": "500000000",
+		"Décisions": "https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=99568DA917518B9FA67884C187873AB8.tpdila07v_2?cidTexte=JORFTEXT000023505162&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000023502765"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Liaisons vidéo temporaires par satellite (SNG)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "14250000000",
+		"Fréquencehaute": "14500000000",
+		"Différence": "250000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0275.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "17100000000",
+		"Fréquencehaute": "17300000000",
+		"Différence": "200000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "17700000000",
+		"Fréquencehaute": "19700000000",
+		"Différence": "2000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Liaisons vidéo temporaires par satellite (SNG)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "17700000000",
+		"Fréquencehaute": "20200000000",
+		"Différence": "2500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0372.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "21650000000",
+		"Fréquencehaute": "24250000000",
+		"Différence": "2600000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-0614.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "22000000000",
+		"Fréquencehaute": "22600000000",
+		"Différence": "600000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "22758750000",
+		"Fréquencehaute": "22842750000",
+		"Différence": "84000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "23000000000",
+		"Fréquencehaute": "23600000000",
+		"Différence": "600000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24000000000",
+		"Fréquencehaute": "24050000000",
+		"Différence": "50000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24000000000",
+		"Fréquencehaute": "24050000000",
+		"Différence": "50000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24000000000",
+		"Fréquencehaute": "24100000000",
+		"Différence": "100000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24050000000",
+		"Fréquencehaute": "24250000000",
+		"Différence": "200000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24050000000",
+		"Fréquencehaute": "24250000000",
+		"Différence": "200000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24050000000",
+		"Fréquencehaute": "26500000000",
+		"Différence": "2450000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24050000000",
+		"Fréquencehaute": "27000000000",
+		"Différence": "2950000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24050000000",
+		"Fréquencehaute": "24075000000",
+		"Différence": "25000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24075000000",
+		"Fréquencehaute": "24150000000",
+		"Différence": "75000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24100000000",
+		"Fréquencehaute": "24150000000",
+		"Différence": "50000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24150000000",
+		"Fréquencehaute": "24250000000",
+		"Différence": "100000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24150000000",
+		"Fréquencehaute": "24250000000",
+		"Différence": "100000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24250000000",
+		"Fréquencehaute": "24495000000",
+		"Différence": "245000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24250000000",
+		"Fréquencehaute": "24500000000",
+		"Différence": "250000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24495000000",
+		"Fréquencehaute": "24500000000",
+		"Différence": "5000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "24549000000",
+		"Fréquencehaute": "25445000000",
+		"Différence": "896000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Satellite",
+		"Application": "Liaisons vidéo temporaires par satellite (SNG)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "29500000000",
+		"Fréquencehaute": "30000000000",
+		"Différence": "500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/10-0372.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "31871000000",
+		"Fréquencehaute": "32543000000",
+		"Différence": "672000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "32683000000",
+		"Fréquencehaute": "33355000000",
+		"Différence": "672000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "37268000000",
+		"Fréquencehaute": "38220000000",
+		"Différence": "952000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "38528000000",
+		"Fréquencehaute": "39480000000",
+		"Différence": "952000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "47000000000",
+		"Fréquencehaute": "47200000000",
+		"Différence": "200000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "47000000000",
+		"Fréquencehaute": "47200000000",
+		"Différence": "200000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "57000000000",
+		"Fréquencehaute": "64000000000",
+		"Différence": "7000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "57000000000",
+		"Fréquencehaute": "64000000000",
+		"Différence": "7000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Transmission de données à large bande",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "57000000000",
+		"Fréquencehaute": "66000000000",
+		"Différence": "9000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "61000000000",
+		"Fréquencehaute": "61500000000",
+		"Différence": "500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "63000000000",
+		"Fréquencehaute": "64000000000",
+		"Différence": "1000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "71000000000",
+		"Fréquencehaute": "76000000000",
+		"Différence": "5000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Objets/IoT",
+		"Application": "Application de radiorepérage",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "75000000000",
+		"Fréquencehaute": "85000000000",
+		"Différence": "10000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "76000000000",
+		"Fréquencehaute": "77500000000",
+		"Différence": "1500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "76000000000",
+		"Fréquencehaute": "77500000000",
+		"Différence": "1500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "76000000000",
+		"Fréquencehaute": "77000000000",
+		"Différence": "1000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Systèmes télématiques pour la circulation et le transport",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "77000000000",
+		"Fréquencehaute": "81000000000",
+		"Différence": "4000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "77500000000",
+		"Fréquencehaute": "78000000000",
+		"Différence": "500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "77500000000",
+		"Fréquencehaute": "78000000000",
+		"Différence": "500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "78000000000",
+		"Fréquencehaute": "81500000000",
+		"Différence": "3500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "78000000000",
+		"Fréquencehaute": "81500000000",
+		"Différence": "3500000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Faisceaux hertziens",
+		"Application": "Faisceaux hertziens (FH)",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "81000000000",
+		"Fréquencehaute": "86000000000",
+		"Différence": "5000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/17-1332.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "122000000000",
+		"Fréquencehaute": "123000000000",
+		"Différence": "1000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "122250000000",
+		"Fréquencehaute": "123000000000",
+		"Différence": "750000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "134000000000",
+		"Fréquencehaute": "136000000000",
+		"Différence": "2000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "134000000000",
+		"Fréquencehaute": "136000000000",
+		"Différence": "2000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "136000000000",
+		"Fréquencehaute": "141000000000",
+		"Différence": "5000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "136000000000",
+		"Fréquencehaute": "141000000000",
+		"Différence": "5000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "241000000000",
+		"Fréquencehaute": "248000000000",
+		"Différence": "7000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "241000000000",
+		"Fréquencehaute": "248000000000",
+		"Différence": "7000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Réseaux mobile et THD",
+		"Application": "Non-spécifique",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "244000000000",
+		"Fréquencehaute": "246000000000",
+		"Différence": "2000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "248000000000",
+		"Fréquencehaute": "250000000000",
+		"Différence": "2000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": "Amateur",
+		"Application": "Amateur-satellite",
+		"Exemples spécifiques à la bande": "",
+		"Fréquencebasse": "248000000000",
+		"Fréquencehaute": "250000000000",
+		"Différence": "2000000000",
+		"Décisions": "http://www.arcep.fr/uploads/tx_gsavis/12-1241.pdf"
+	},
+	{
+		"Catégorie": ""
+	}
+]
