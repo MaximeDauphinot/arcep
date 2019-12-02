@@ -97,7 +97,7 @@ class container extends Component {
         wichTheme: 0,
         rightModalChoice: '',
         frequenceChoice: '',
-        link: ''
+        link: null
     }
 
     changeThemeHandler = (theme) => {

@@ -673,14 +673,14 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                     props.leftClose();
                     props.rightClose();
                     props.changeCategorie('');
-                    props.changeLinkChoiceHandler('');
+                    props.changeLinkChoiceHandler(null);
                     props.closeUnderCategorie();
                     props.openSpectre();
                     }} style={{cursor: 'pointer', color: 'rgb(147, 147, 147)'}}>{title.grey}</span><span style={{cursor: 'pointer'}}onClick={() => {props.closeUnderCategorie();props.setSpectreTopBarToOne();props.closeTheme();props.categorie(props.underCategorie); props.openCategorie()}}>{title.black}</span><span style={{ color: 'rgb(147, 147, 147)'}}>{slash}</span> {titleThird}</p>
             </div>
             <div  style={styleTheme} className={classes.fullWidthContainer}>
                 <div style={style.firstContainer}>
-                    {props.link !== '' && <div className={classes.decision}>
+                    {props.link !== null && <div className={classes.decision}>
                                         <a className={classes.lien} href={props.link} rel="noopener noreferrer" target="_blank"><button className={classes.button + ' ' + classe}>Décision</button></a>
                                     </div>}
                     <div className={classes.alignContainer}>
