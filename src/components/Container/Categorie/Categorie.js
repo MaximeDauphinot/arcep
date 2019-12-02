@@ -323,7 +323,7 @@ const categorie = (props) => {
                             <Rfid className={classes.logoUnderCat}/>
                         </div>
                         <div>
-                            <p className={classes.titleUnderCat}>Radio-identification RFID</p>
+                            <p className={classes.titleUnderCat}>RFID</p>
                         </div>
                     </div>
                     </div>
@@ -336,26 +336,26 @@ const categorie = (props) => {
                 backgroundColor: 'rgb(127, 190, 174)',
                 margin: '0px 2px',
                 height: (60 * window.innerHeight) / 100,
-                width: '16.6666%',
+                width: '20%',
                 flexDirection: 'column'
             },
             secondContainer: {
                 height: (60 * window.innerHeight) / 100,
-                width: '16.6666%',
+                width: '20%',
                 flexDirection: 'column'
             },
             thirdContainer: {
                 backgroundColor: 'rgb(127, 190, 174)',
                 margin: '0px 2px',
                 height: (60 * window.innerHeight) / 100,
-                width: '16.6666%',
+                width: '20%',
                 flexDirection: 'column'
             },
             fourthContainer: {
                 backgroundColor: 'rgb(127, 190, 174)',
                 margin: '0px 2px',
                 height: (60 * window.innerHeight) / 100,
-                width: '16.6666%',
+                width: '20%',
                 flexDirection: 'column'
             },
             thirdContainersd: {
@@ -389,45 +389,26 @@ const categorie = (props) => {
             </div>
         )
         secondContainer = (
-            <div style={style.secondContainer} >
-                <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 2); props.openUnderCategorie();}} className={classes.hoverCategorie} style={{backgroundColor: 'rgb(127, 190, 174)', margin: '0px 2px 4px',height: 'calc(50% - 4px)',flexDirection: 'column',}}>
-                    <div className={classes.btnhover} >
-                        <div className={classes.decision}>
-                            <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
-                        </div>
-                        <div className={classes.alignContainer}>
-                            <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <Radiomessageries className={classes.logoUnderCat}/>
+            <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 2); props.openUnderCategorie();}} className={classes.hoverCategorie} style={style.thirdContainer}>
+                <div className={classes.btnhover} >
+                    <div className={classes.decision}>
+                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
                     </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Radiomessagerie</p>
-                    </div>
+                    <div className={classes.alignContainer}>
+                        <div className={classes.underCategorieContainer}>
+                <div className={classes.logoUnderCat}>
+                    <BoucleRadio className={classes.logoUnderCat}/>
                 </div>
-                        </div>
-                    </div>
+                <div>
+                    <p className={classes.titleUnderCat}>Boucle locale radio</p>
                 </div>
-                <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 3); props.openUnderCategorie();}} className={classes.hoverCategorie} style={style.thirdContainersd}>
-                    <div className={classes.btnhover} >
-                        <div className={classes.decision}>
-                            <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
-                        </div>
-                        <div className={classes.alignContainer}>
-                            <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <BoucleRadio className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Boucle locale radio</p>
-                    </div>
-                </div>
-                        </div>
+            </div>
                     </div>
                 </div>
             </div>
         )
         thirdContainer = (
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 4); props.openUnderCategorie();}} style={style.thirdContainer} className={classes.hoverCategorie}>
+            <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 3); props.openUnderCategorie();}} style={style.thirdContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
                     <div className={classes.decision}>
                         <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
@@ -446,45 +427,7 @@ const categorie = (props) => {
             </div>
         )
         fourthContainer = (
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 5); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
-                <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
-                    </div>
-                    <div className={classes.alignContainer}>
-                        <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <Ppdr className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>PPDR</p>
-                    </div>
-                </div>
-                    </div>
-                </div>
-            </div>
-        )
-        fivethContainer = (
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 6); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
-                <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
-                    </div>
-                    <div className={classes.alignContainer}>
-                        <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <SystemeDeTerre className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Systèmes de Terre permettant de fournir des services de communications électroniques</p>
-                    </div>
-                </div>
-                    </div>
-                </div>
-            </div>
-        )
-        sixthContainer = (
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 7); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
+            <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 4); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
                     <div className={classes.decision}>
                         <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
@@ -502,6 +445,26 @@ const categorie = (props) => {
                 </div>
             </div>
         )
+        fivethContainer = (
+            <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 5); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
+                <div className={classes.btnhover} >
+                    <div className={classes.decision}>
+                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
+                    </div>
+                    <div className={classes.alignContainer}>
+                        <div className={classes.underCategorieContainer}>
+                    <div className={classes.logoUnderCat}>
+                        <SystemeDeTerre className={classes.logoUnderCat}/>
+                    </div>
+                    <div>
+                        <p className={classes.titleUnderCat}>Systèmes de Terre permettant de fournir des services de communications électroniques</p>
+                    </div>
+                </div>
+                    </div>
+                </div>
+            </div>
+        )
+        sixthContainer = null;
         seventhContainer = null;
         eightthContainer = null;
         ninethContainer = null;
@@ -623,7 +586,7 @@ const categorie = (props) => {
                         <Pmse className={classes.logoUnderCat}/>
                     </div>
                     <div>
-                        <p className={classes.titleUnderCat}>équipements auxiliaires sonores de conception de programmes et de radiodiffusio PMSE</p>
+                        <p className={classes.titleUnderCat}>PMSE</p>
                     </div>
                 </div>
                     </div>
@@ -643,19 +606,21 @@ const categorie = (props) => {
                 backgroundColor: 'rgb(75, 172, 208)',
                 margin: '0px 2px',
                 height: (60 * window.innerHeight) / 100,
-                width: '11.1111%',
+                width: '25%',
                 flexDirection: 'column'
             },
             secondContainer: {
                 backgroundColor: 'rgb(75, 172, 208)',
                 margin: '0px 2px',
                 height: (60 * window.innerHeight) / 100,
-                width: '11.1111%',
+                width: '25%',
                 flexDirection: 'column'
             },
             thirdContainer: {
+                backgroundColor: 'rgb(75, 172, 208)',
+                margin: '0px 2px',
                 height: (60 * window.innerHeight) / 100,
-                width: '11.11111%',
+                width: '25%',
                 flexDirection: 'column'
             },
             thirdContainersd: {
@@ -668,7 +633,7 @@ const categorie = (props) => {
                 backgroundColor: 'rgb(75, 172, 208)',
                 margin: '0px 2px',
                 height: (60 * window.innerHeight) / 100,
-                width: '11.1111%',
+                width: '25%',
                 flexDirection: 'column'
             }
         }
@@ -715,157 +680,48 @@ const categorie = (props) => {
             </div>
         )
         thirdContainer = (
-            <div  style={style.thirdContainer} >
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 3); props.openUnderCategorie();}} className={classes.hoverCategorie} style={{backgroundColor: 'rgb(75, 172, 208)', margin: '0px 2px 4px',height: 'calc(40% - 4px)',flexDirection: 'column',}}>
-                <div className={classes.btnhover} >
+            <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 3); props.openUnderCategorie();}} style={style.thirdContainer} className={classes.hoverCategorie}>
+                <div className={classes.btnhover}>
                     <div className={classes.decision}>
                         <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
                     </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <SatellitTemporaire className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p style={{maxWidth: '120px'}} className={classes.titleUnderCat}>Liaisons vidéo temporaires par satellite (SNG)</p>
-                    </div>
-                </div>
-                    </div>
-                </div>
-            </div>
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 4); props.openUnderCategorie();}} style={style.thirdContainersd} className={classes.hoverCategorie}>
-                <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
-                    </div>
-                    <div className={classes.alignContainer}>
-                        <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <SatelliteGps className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p style={{maxWidth: '120px'}} className={classes.titleUnderCat}>Systèmes de navigation par satellite</p>
-                    </div>
-                </div>
+                            <div className={classes.logoUnderCat}>
+                                <SystemeDeTerre className={classes.logoUnderCat}/>
+                            </div>
+                            <div>
+                                <p style={{maxWidth: '120px'}} className={classes.titleUnderCat}>Systèmes par satellite</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
         )
         fourthContainer = (
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 5); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
+            <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 4); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover}>
                     <div className={classes.decision}>
                         <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
                     </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <Navire className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p style={{maxWidth: '120px'}} className={classes.titleUnderCat}>Services de communications par satellite à bord d'aéronefs</p>
-                    </div>
-                </div>
-                    </div>
-                </div>
-            </div>
-        )
-        fivethContainer = (
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 6); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
-                <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
-                    </div>
-                    <div className={classes.alignContainer}>
-                        <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <NaviereSatellite className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p style={{maxWidth: '120px'}} className={classes.titleUnderCat}>Stations terriennes à bord d'aéronefs ou de navires</p>
-                    </div>
-                </div>
+                            <div className={classes.logoUnderCat}>
+                                <Aeronef className={classes.logoUnderCat}/>
+                            </div>
+                            <div>
+                                <p style={{maxWidth: '120px'}} className={classes.titleUnderCat}>AES</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         )
-        sixthContainer = (
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 7); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
-                <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
-                    </div>
-                    <div className={classes.alignContainer}>
-                        <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <Navire className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p style={{maxWidth: '120px'}} className={classes.titleUnderCat}>Services de communications par satellite à bord de navires</p>
-                    </div>
-                </div>
-                    </div>
-                </div>
-            </div>
-        )
-        seventhContainer = (
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 8); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
-                <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
-                    </div>
-                    <div className={classes.alignContainer}>
-                        <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <TempEtalon className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p style={{maxWidth: '120px'}} className={classes.titleUnderCat}>Fréquences étalon et signaux horaires par satellite</p>
-                    </div>
-                </div>
-                    </div>
-                </div>
-            </div>
-        )
-        eightthContainer = (
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 9); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
-                <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
-                    </div>
-                    <div className={classes.alignContainer}>
-                        <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <TempSatellite className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p style={{maxWidth: '120px'}} className={classes.titleUnderCat}>Éléments terrestres complémentaires d'un système mobile par satellite</p>
-                    </div>
-                </div>
-                    </div>
-                </div>
-            </div>
-        )
-        ninethContainer = (
-            <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 10); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
-                <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
-                    </div>
-                    <div className={classes.alignContainer}>
-                        <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <Aeronef className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p style={{maxWidth: '120px'}} className={classes.titleUnderCat}>AES</p>
-                    </div>
-                </div>
-                    </div>
-                </div>
-            </div>
-        )
+        fivethContainer = null;
+        sixthContainer = null;
+        seventhContainer = null;
+        eightthContainer = null;
+        ninethContainer = null;
     } else if (props.categorie === 'Faisceaux hertziens'){
         style = {
             firstContainer: {
@@ -913,9 +769,16 @@ const categorie = (props) => {
                 backgroundColor: 'rgb(240, 237, 231)',
                 margin: '0px 2px',
                 height: (60 * window.innerHeight) / 100,
-                width: '100%',
+                width: '50%',
                 flexDirection: 'column'
-            }
+            },
+            secondContainer: {
+                backgroundColor: 'rgb(240, 237, 231)',
+                margin: '0px 2px',
+                height: (60 * window.innerHeight) / 100,
+                width: '50%',
+                flexDirection: 'column'
+            },
         }
         title = {
             black: 'Autres',
@@ -928,19 +791,37 @@ const categorie = (props) => {
                         <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonAutres}>Décision</button></a>
                     </div>
                     <div className={classes.alignContainer}>
-                    <div className={classes.underCategorieContainer} style={{color: 'black'}}>
-                    <div className={classes.logoUnderCat}>
-                        <Navire className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Communications mobiles à bord des navires</p>
-                    </div>
-                </div>
+                        <div className={classes.underCategorieContainer} style={{color: 'black'}}>
+                            <div className={classes.logoUnderCat}>
+                                <Navire className={classes.logoUnderCat}/>
+                            </div>
+                            <div>
+                                <p className={classes.titleUnderCat}>Autres applications</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         )
-        secondContainer = null;
+        secondContainer = (
+            <div onClick={() => {props.closeCategorie(); props.underCategorie('Autres', 2); props.openUnderCategorie();}} style={style.secondContainer} className={classes.hoverCategorieAutres}>
+                <div className={classes.btnhover}>
+                    <div className={classes.decision}>
+                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonAutres}>Décision</button></a>
+                    </div>
+                    <div className={classes.alignContainer}>
+                        <div className={classes.underCategorieContainer} style={{color: 'black'}}>
+                            <div className={classes.logoUnderCat}>
+                                <Navire className={classes.logoUnderCat}/>
+                            </div>
+                            <div>
+                                <p className={classes.titleUnderCat}>DECT et autres téléphones sans fil</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        )
         thirdContainer = null;
         fourthContainer = null;
         fivethContainer = null;

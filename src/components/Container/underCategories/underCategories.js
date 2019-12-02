@@ -278,14 +278,14 @@ const underCategories = (props) => {
             )
         } else if (props.wichUnder === 11){
             href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
-            titleThird = 'Radio-identification RFID';
+            titleThird = 'RFID';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
                         <Rfid className={classes.logoUnderCat}/>
                     </div>
                     <div>
-                        <p className={classes.titleUnderCat}>Radio-identification RFID</p>
+                        <p className={classes.titleUnderCat}>RFID</p>
                     </div>
                 </div>
             )
@@ -334,25 +334,7 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
 "</p>
                 </div>
             )
-        } else if (props.wichUnder === 2){
-            href = ''
-            titleThird = 'Radiomessagerie';
-            fenetre.leftWindow = (
-                <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <Radiomessageries className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Radiomessagerie</p>
-                    </div>
-                </div>
-            )
-            fenetre.rightWindow = (
-                <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>Systèmes d'envoi de messages par radio</p>
-                </div>
-            )
-        } else if (props.wichUnder === 3){
+        }  else if (props.wichUnder === 2){
             href = ''
             titleThird = 'Boucle locale radio';
             fenetre.leftWindow = (
@@ -370,7 +352,7 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                     <p className={classes.textUndercat}>La boucle locale radio consiste à apporter un service d'accès fixe à Internet grâce aux ondes radio. Cette solution constitue une alternative aux solutions filaires pour le raccordement des clients, l'ADSL et le FttH notamment. À ce jour, les fréquences utilisées pour de tels réseaux sont des fréquences de la bande 3,4 - 3,6 GHz, pour la métropole comme pour les DOM.</p>
                 </div>
             )
-        } else if (props.wichUnder === 4){
+        } else if (props.wichUnder === 3){
             href = ''
             titleThird = 'Réseaux mobiles professionnels PMR';
             fenetre.leftWindow = (
@@ -403,25 +385,7 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                                 "</p>
                 </div>
             )
-        } else if (props.wichUnder === 5){
-            href = ''
-            titleThird = 'PPDR';
-            fenetre.leftWindow = (
-                <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <Ppdr className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>PPDR</p>
-                    </div>
-                </div>
-            )
-            fenetre.rightWindow = (
-                <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>Les réseaux PPDR (Public Protection and Disaster Relief) sont des cas particuliers de réseaux professionnels dédiés à la sécurité publique, utilisés notamment par les forces de police et de gendarmerie ou pour la surveillance de sites industriels sensibles.</p>
-                </div>
-            )
-        } else if (props.wichUnder === 6){
+        } else if (props.wichUnder === 4){
             href = ''
             titleThird = 'Systèmes de Terre permettant de fournir des services de communications électroniques';
             fenetre.leftWindow = (
@@ -439,7 +403,7 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                     <p className={classes.textUndercat}>Ces fréquences peuvent être utilisées pour des réseaux mobiles.</p>
                 </div>
             )
-        } else if (props.wichUnder === 7){
+        } else if (props.wichUnder === 5){
             href = ''
             titleThird = 'Transmission de données à large bande';
             fenetre.leftWindow = (
@@ -466,7 +430,8 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
         grey: 'Accueil / '
     }
      }  else if (props.underCategorie === 'Amateur'){
-        if (props.wichUnder === 1){titleThird = 'Amateur';
+        if (props.wichUnder === 1){
+            titleThird = 'Amateur';
         href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -522,7 +487,8 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
         grey: 'Accueil / '
     }
      } else if (props.underCategorie === 'PMSE'){
-        if (props.wichUnder === 1){titleThird = 'Audio/multimédia sans fil';
+        if (props.wichUnder === 1){
+            titleThird = 'Audio/multimédia sans fil';
         href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -541,14 +507,14 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
             )
         } else if (props.wichUnder === 2){
             href = ''
-            titleThird = 'équipements auxiliaires sonores de conception de programmes et de radiodiffusio PMSE';
+            titleThird = 'PMSE';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
                         <Pmse className={classes.logoUnderCat}/>
                     </div>
                     <div>
-                        <p className={classes.titleUnderCat}>équipements auxiliaires sonores de conception de programmes et de radiodiffusio PMSE</p>
+                        <p className={classes.titleUnderCat}>PMSE</p>
                     </div>
                 </div>
             )
@@ -576,8 +542,9 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
         grey: 'Accueil / '
     }
      } else if (props.underCategorie === 'Satellite'){
-        if (props.wichUnder === 1){titleThird = "Stations terriennes du service mobile par satellite";
-        href = ''
+        if (props.wichUnder === 1){
+            titleThird = "Stations terriennes du service mobile par satellite";
+            href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -613,136 +580,27 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
             )
         } else if (props.wichUnder === 3){
             href = ''
-            titleThird = 'Liaisons vidéo temporaires par satellite (SNG)';
+            titleThird = 'Systèmes par satellite';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
                         <SatellitTemporaire className={classes.logoUnderCat}/>
                     </div>
                     <div>
-                        <p className={classes.titleUnderCat}>Liaisons vidéo temporaires par satellite (SNG)</p>
+                        <p className={classes.titleUnderCat}>Systèmes par satellite</p>
                     </div>
                 </div>
             )
             fenetre.rightWindow = (
                 <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>La couverture médiatique d’événements d’actualité (compétition sportive, festival, etc.) peut faire appel à des liaisons temporaires de vidéo-reportage par satellite.
- 
- Ces liaisons de vidéo-reportage font intervenir un satellite communiquant avec une ou plusieurs stations terriennes, dîtes Satellite News Gathering (SNG), pour acheminer les vidéo-reportages à destination des studios de radiodiffusion. 
-  
- S’agissant des stations terriennes SNG, l’utilisation de fréquences sur le territoire français doit se faire dans le cadre d’une autorisation de l’ARCEP (autorisation générale ou autorisation individuelle). S’agissant du segment spatial, c’est-à-dire la composante satellitaire, les assignations de fréquences font en amont l’objet de procédures auprès de l’Union internationale des télécommunications. 
- </p>
+                    <p className={classes.textUndercat}>Cette catégorie regroupe divers systèmes par satellite, comme :
+- l'émission de fréquence à des fins d'étalonnage ou de détermination de l'heure
+- le calcul de la position d'un mobile à partir de signaux émis par satellite
+- la connexion des avions ou des navires par satellite, par exemple pour apporter un service Internet à bord par Wifi
+- la couverture médiatique d’événements d’actualité (compétition sportive, festival, etc.)grâce à des liaisons temporaires de vidéo-reportage par satellite</p>
                 </div>
             )
         } else if (props.wichUnder === 4){
-            href = ''
-            titleThird = 'Systèmes de navigation par satellite';
-            fenetre.leftWindow = (
-                <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <SatelliteGps className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Systèmes de navigation par satellite</p>
-                    </div>
-                </div>
-            )
-            fenetre.rightWindow = (
-                <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>Application consistant à calculer la position d'un mobile à partir de signaux émis par satellite.</p>
-                </div>
-            )
-        } else if (props.wichUnder === 5){
-            href = ''
-            titleThird = "Services de communications par satellite à bord d'aéronefs";
-            fenetre.leftWindow = (
-                <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <NavireWhite style={{color: 'white'}} className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Services de communications par satellite à bord d'aéronefs</p>
-                    </div>
-                </div>
-            )
-            fenetre.rightWindow = (
-                <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>Applications consistant à connecter les avions par satellite, par exemple pour apporter un service Internet à bord par Wifi</p>
-                </div>
-            )
-        } else if (props.wichUnder === 6){
-            href = ''
-            titleThird = "Stations terriennes à bord d'aéronefs ou de navires";
-            fenetre.leftWindow = (
-                <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <NaviereSatellite className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Stations terriennes à bord d'aéronefs ou de navires</p>
-                    </div>
-                </div>
-            )
-            fenetre.rightWindow = (
-                <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>Service de communications par satellite, à partir de stations terriennes embarquées à bord d’aéronefs ou de navires traversant les espaces aériens et les eaux français</p>
-                </div>
-            )
-        } else if (props.wichUnder === 7){
-            href = ''
-            titleThird = 'Services de communications par satellite à bord de navires';
-            fenetre.leftWindow = (
-                <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <NavireWhite style={{color: 'white'}} className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Services de communications par satellite à bord de navires</p>
-                    </div>
-                </div>
-            )
-            fenetre.rightWindow = (
-                <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>Applications consistant à connecter les navires par satellite, par exemple pour apporter un service Internet à bord par Wifi</p>
-                </div>
-            )
-        } else if (props.wichUnder === 8){
-            href = ''
-            titleThird = 'Fréquences étalon et signaux horaires par satellite';
-            fenetre.leftWindow = (
-                <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <TempEtalon className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Fréquences étalon et signaux horaires par satellite</p>
-                    </div>
-                </div>
-            )
-            fenetre.rightWindow = (
-                <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>Application consistant à émettre des fréquences à des fins d'étalonnage ou de détermination de l'heure.</p>
-                </div>
-            )
-        } else if (props.wichUnder === 9){
-            href = ''
-            titleThird = "Éléments terrestres complémentaires d'un système mobile par satellite";
-            fenetre.leftWindow = (
-                <div className={classes.underCategorieContainer}>
-                    <div className={classes.logoUnderCat}>
-                        <TempSatellite className={classes.logoUnderCat}/>
-                    </div>
-                    <div>
-                        <p className={classes.titleUnderCat}>Éléments terrestres complémentaires d'un système mobile par satellite</p>
-                    </div>
-                </div>
-            )
-            fenetre.rightWindow = (
-                <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>Stations au sol utilisées en des points déterminés afin d’augmenter la disponibilité du service mobile par satellite dans les zones géographiques, situées à l’intérieur de l’empreinte du ou des satellites du système, où les communications avec une ou plusieurs stations spatiales ne peuvent être assurées avec la qualité requise</p>
-                </div>
-            )
-        } else if (props.wichUnder === 10){
             href = ''
             titleThird = 'AES';
             fenetre.leftWindow = (
@@ -769,7 +627,8 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
         grey: 'Accueil / '
     }
      } else if (props.underCategorie === 'Faisceaux hertziens'){
-        if (props.wichUnder === 1){titleThird = 'Faisceaux hertziens';
+        if (props.wichUnder === 1){
+            titleThird = 'Faisceaux hertziens';
         href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -787,7 +646,7 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                         Les faisceaux hertziens sont, dans leur grande majorité (80%), utilisés par les opérateurs mobiles, afin de densifier leurs réseaux et notamment de connecter leurs antennes au réseau internet ; ils peuvent également être utilisés pour des stations de radio, des société industrielles ou de transport, des collectivités ou encore des hôpitaux qui connectent différents bâtiment entre eux.</p>
                 </div>
             )
-        }
+        } 
          style.firstContainer.backgroundColor = 'rgb(242, 157, 75)';
          style.secondContainer.backgroundColor = 'rgb(242, 157, 75)';
          classe = classes.buttonFaisceaux;
@@ -796,7 +655,8 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
         grey: 'Accueil / '
     }
      } else if (props.underCategorie === 'Autres'){
-        if (props.wichUnder === 1){titleThird = 'Communications mobiles à bord des navires';
+        if (props.wichUnder === 1){
+            titleThird = 'Autres applications';
         href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer} style={{color: 'black'}}>
@@ -804,13 +664,31 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                         <Navire className={classes.logoUnderCat}/>
                     </div>
                     <div>
-                        <p className={classes.titleUnderCat}>Communications mobiles à bord des navires</p>
+                        <p className={classes.titleUnderCat}>Autres applications</p>
                     </div>
                 </div>
             )
             fenetre.rightWindow = (
                 <div className={classes.textAlign} >
-                    <p style={{color: 'black'}} className={classes.textUndercat}>Les services  de communications électroniques mobiles à bord de navire sont fournis par une entreprise pour permettre aux personnes à bord  d’un  navire dans les eaux territoriales françaises  de  communiquer  en  utilisant  des  réseaux  publics  de  communications  à l’aide  d’un  système  GSM,  sans  établir  de  connexion  directe  avec  des  réseaux  mobiles terrestres.</p>
+                    <p style={{color: 'black'}} className={classes.textUndercat}>Cette catégorie regroupe les autres applications.</p>
+                </div>
+            )
+        } else if (props.wichUnder === 2){
+            href = ''
+            titleThird = 'DECT et autres téléphones sans fil';
+            fenetre.leftWindow = (
+                <div className={classes.underCategorieContainer} style={{color: 'black'}}>
+                    <div className={classes.logoUnderCat}>
+                        <Navire className={classes.logoUnderCat}/>
+                    </div>
+                    <div>
+                        <p className={classes.titleUnderCat}>DECT et autres téléphones sans fil</p>
+                    </div>
+                </div>
+            )
+            fenetre.rightWindow = (
+                <div className={classes.textAlign}>
+                    <p style={{color: 'black'}} className={classes.textUndercat}>Un téléphone DECT (Digital Enhanced Cordless Telecommunications) est un téléphone sans fil numérique.</p>
                 </div>
             )
         }
@@ -827,7 +705,14 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
         <div   className={classes.themes} id="underCat">
           <div  className={classes.modalMiddle}>
             <div className={classes.sectionTitle}>
-                <p style={{color: 'black', fontWeight: 'bold'}}><span onClick={() => {props.leftClose(); props.rightClose(); props.changeCategorie(''); props.closeUnderCategorie(); props.openSpectre();}} style={{cursor: 'pointer', color: 'rgb(147, 147, 147)'}}>{title.grey}</span><span style={{cursor: 'pointer'}}onClick={() => {props.closeUnderCategorie();props.setSpectreTopBarToOne();props.closeTheme();props.categorie(props.underCategorie); props.openCategorie()}}>{title.black}</span><span style={{ color: 'rgb(147, 147, 147)'}}>{slash}</span> {titleThird}</p>
+                <p style={{color: 'black', fontWeight: 'bold'}}><span onClick={() => {
+                    props.leftClose();
+                    props.rightClose();
+                    props.changeCategorie('');
+                    props.closeUnderCategorie();
+                    props.openSpectre();
+                    props.changeScrollSpectreTopBar(0);
+                    }} style={{cursor: 'pointer', color: 'rgb(147, 147, 147)'}}>{title.grey}</span><span style={{cursor: 'pointer'}}onClick={() => {props.closeUnderCategorie();props.setSpectreTopBarToOne();props.closeTheme();props.categorie(props.underCategorie); props.openCategorie()}}>{title.black}</span><span style={{ color: 'rgb(147, 147, 147)'}}>{slash}</span> {titleThird}</p>
             </div>
             <div  style={styleTheme} className={classes.fullWidthContainer}>
                 <div style={style.firstContainer}>

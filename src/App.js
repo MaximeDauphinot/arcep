@@ -131,6 +131,7 @@ class App extends Component {
 
     openCategorieHandler () {
       this.setState({categorieIsOpen: true})
+      this.setState({scrollSpectreTopBar: 0})
     }
 
     closeCategorieHandler () {
@@ -148,6 +149,7 @@ class App extends Component {
 
     openSpectreHandler () {
       this.setState({spectre: true})
+      this.setState({scrollSpectreTopBar: 0})
     }
 
     closeSpectreHandler () {

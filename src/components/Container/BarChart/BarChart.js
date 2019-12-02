@@ -143,7 +143,7 @@ class BarChart extends Component {
                                 } else if (d.Application === 'Applications inductives'){
                                     this.props.underCategorie('Objets/IoT', 10)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Radio-identification RFID'){
+                                } else if (d.Application === 'RFID'){
                                     this.props.underCategorie('Objets/IoT', 11)
                                     this.props.openUnderCategorie()
                                 }
@@ -152,23 +152,17 @@ class BarChart extends Component {
                                 if (d.Application === 'Réseaux mobiles ouverts au public'){
                                     this.props.underCategorie('Réseaux mobile et THD', 1)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Radiomessagerie'){
+                                } else if (d.Application === 'Boucle locale radio'){
                                     this.props.underCategorie('Réseaux mobile et THD', 2)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Boucle locale radio'){
+                                } else if (d.Application === 'Réseaux mobiles professionnels PMR'){
                                     this.props.underCategorie('Réseaux mobile et THD', 3)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Réseaux mobiles professionnels PMR'){
+                                }  else if (d.Application === 'Systèmes de Terre permettant de fournir des services de communications électroniques'){
                                     this.props.underCategorie('Réseaux mobile et THD', 4)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'PPDR'){
-                                    this.props.underCategorie('Réseaux mobile et THD', 5)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Systèmes de Terre permettant de fournir des services de communications électroniques'){
-                                    this.props.underCategorie('Réseaux mobile et THD', 6)
-                                    this.props.openUnderCategorie()
                                 } else if (d.Application === 'Transmission de données à large bande'){
-                                    this.props.underCategorie('Réseaux mobile et THD', 7)
+                                    this.props.underCategorie('Réseaux mobile et THD', 5)
                                     this.props.openUnderCategorie()
                                 }
                             }  else if (d.Catégorie === 'Amateur' && this.props.xScale){
@@ -185,7 +179,7 @@ class BarChart extends Component {
                                 if (d.Application === 'Audio/multimédia sans fil'){
                                     this.props.underCategorie('PMSE', 1)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'équipements auxiliaires sonores de conception de programmes et de radiodiffusio PMSE'){
+                                } else if (d.Application === 'PMSE'){
                                     this.props.underCategorie('PMSE', 2)
                                     this.props.openUnderCategorie()
                                 }
@@ -197,31 +191,13 @@ class BarChart extends Component {
                                 } else if (d.Application === 'Stations terriennes du service fixe par satellite'){
                                     this.props.underCategorie('Satellite', 2)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Liaisons vidéo temporaires par satellite (SNG)'){
+                                } else if (d.Application === 'Systèmes par satellite'){
                                     this.props.underCategorie('Satellite', 3)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Systèmes de navigation par satellite'){
+                                } else if (d.Application === 'AES'){
                                     this.props.underCategorie('Satellite', 4)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === "Services de communications par satellite à bord d'aéronefs"){
-                                    this.props.underCategorie('Satellite', 5)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === "Stations terriennes à bord d'aéronefs ou de navires"){
-                                    this.props.underCategorie('Satellite', 6)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Services de communications par satellite à bord de navires'){
-                                    this.props.underCategorie('Satellite', 7)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Fréquences étalon et signaux horaires par satellite'){
-                                    this.props.underCategorie('Satellite', 8)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === "Éléments terrestres complémentaires d'un système mobile par satellite"){
-                                    this.props.underCategorie('Satellite', 9)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Services de communications par satellite à bord d’aeronefs'){
-                                    this.props.underCategorie('Satellite', 10)
-                                    this.props.openUnderCategorie()
-                                }
+                                } 
                             } else if (d.Catégorie === 'Faisceaux hertziens' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Faisceaux hertziens (FH)'){
@@ -230,8 +206,11 @@ class BarChart extends Component {
                                 }
                             } else if (d.Catégorie === 'Autres' && this.props.xScale){
                                 this.props.closeSpectre();
-                                if (d.Application === 'Communications mobiles à bord des navires'){
+                                if (d.Application === 'Autres applications'){
                                     this.props.underCategorie('Autres', 1)
+                                    this.props.openUnderCategorie()
+                                } else if (d.Application === 'DECT et autres téléphones sans fil'){
+                                    this.props.underCategorie('Satellite', 4)
                                     this.props.openUnderCategorie()
                                 }
                             }
@@ -443,7 +422,7 @@ class BarChart extends Component {
                                 } else if (d.Application === 'Applications inductives'){
                                     this.props.underCategorie('Objets/IoT', 10)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Radio-identification RFID'){
+                                } else if (d.Application === 'RFID'){
                                     this.props.underCategorie('Objets/IoT', 11)
                                     this.props.openUnderCategorie()
                                 }
@@ -452,23 +431,17 @@ class BarChart extends Component {
                                 if (d.Application === 'Réseaux mobiles ouverts au public'){
                                     this.props.underCategorie('Réseaux mobile et THD', 1)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Radiomessagerie'){
+                                } else if (d.Application === 'Boucle locale radio'){
                                     this.props.underCategorie('Réseaux mobile et THD', 2)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Boucle locale radio'){
+                                } else if (d.Application === 'Réseaux mobiles professionnels PMR'){
                                     this.props.underCategorie('Réseaux mobile et THD', 3)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Réseaux mobiles professionnels PMR'){
+                                }  else if (d.Application === 'Systèmes de Terre permettant de fournir des services de communications électroniques'){
                                     this.props.underCategorie('Réseaux mobile et THD', 4)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'PPDR'){
-                                    this.props.underCategorie('Réseaux mobile et THD', 5)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Systèmes de Terre permettant de fournir des services de communications électroniques'){
-                                    this.props.underCategorie('Réseaux mobile et THD', 6)
-                                    this.props.openUnderCategorie()
                                 } else if (d.Application === 'Transmission de données à large bande'){
-                                    this.props.underCategorie('Réseaux mobile et THD', 7)
+                                    this.props.underCategorie('Réseaux mobile et THD', 5)
                                     this.props.openUnderCategorie()
                                 }
                             }  else if (d.Catégorie === 'Amateur' && this.props.xScale){
@@ -485,7 +458,7 @@ class BarChart extends Component {
                                 if (d.Application === 'Audio/multimédia sans fil'){
                                     this.props.underCategorie('PMSE', 1)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'équipements auxiliaires sonores de conception de programmes et de radiodiffusio PMSE'){
+                                } else if (d.Application === 'PMSE'){
                                     this.props.underCategorie('PMSE', 2)
                                     this.props.openUnderCategorie()
                                 }
@@ -497,31 +470,13 @@ class BarChart extends Component {
                                 } else if (d.Application === 'Stations terriennes du service fixe par satellite'){
                                     this.props.underCategorie('Satellite', 2)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Liaisons vidéo temporaires par satellite (SNG)'){
+                                } else if (d.Application === 'Systèmes par satellite'){
                                     this.props.underCategorie('Satellite', 3)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Systèmes de navigation par satellite'){
+                                } else if (d.Application === 'AES'){
                                     this.props.underCategorie('Satellite', 4)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === "Services de communications par satellite à bord d'aéronefs"){
-                                    this.props.underCategorie('Satellite', 5)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === "Stations terriennes à bord d'aéronefs ou de navires"){
-                                    this.props.underCategorie('Satellite', 6)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Services de communications par satellite à bord de navires'){
-                                    this.props.underCategorie('Satellite', 7)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Fréquences étalon et signaux horaires par satellite'){
-                                    this.props.underCategorie('Satellite', 8)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === "Éléments terrestres complémentaires d'un système mobile par satellite"){
-                                    this.props.underCategorie('Satellite', 9)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Services de communications par satellite à bord d’aeronefs'){
-                                    this.props.underCategorie('Satellite', 10)
-                                    this.props.openUnderCategorie()
-                                }
+                                } 
                             } else if (d.Catégorie === 'Faisceaux hertziens' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Faisceaux hertziens (FH)'){
@@ -741,7 +696,7 @@ class BarChart extends Component {
                                 } else if (d.Application === 'Applications inductives'){
                                     this.props.underCategorie('Objets/IoT', 10)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Radio-identification RFID'){
+                                } else if (d.Application === 'RFID'){
                                     this.props.underCategorie('Objets/IoT', 11)
                                     this.props.openUnderCategorie()
                                 }
@@ -750,23 +705,17 @@ class BarChart extends Component {
                                 if (d.Application === 'Réseaux mobiles ouverts au public'){
                                     this.props.underCategorie('Réseaux mobile et THD', 1)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Radiomessagerie'){
+                                } else if (d.Application === 'Boucle locale radio'){
                                     this.props.underCategorie('Réseaux mobile et THD', 2)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Boucle locale radio'){
+                                } else if (d.Application === 'Réseaux mobiles professionnels PMR'){
                                     this.props.underCategorie('Réseaux mobile et THD', 3)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Réseaux mobiles professionnels PMR'){
+                                }  else if (d.Application === 'Systèmes de Terre permettant de fournir des services de communications électroniques'){
                                     this.props.underCategorie('Réseaux mobile et THD', 4)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'PPDR'){
-                                    this.props.underCategorie('Réseaux mobile et THD', 5)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Systèmes de Terre permettant de fournir des services de communications électroniques'){
-                                    this.props.underCategorie('Réseaux mobile et THD', 6)
-                                    this.props.openUnderCategorie()
                                 } else if (d.Application === 'Transmission de données à large bande'){
-                                    this.props.underCategorie('Réseaux mobile et THD', 7)
+                                    this.props.underCategorie('Réseaux mobile et THD', 5)
                                     this.props.openUnderCategorie()
                                 }
                             }  else if (d.Catégorie === 'Amateur' && this.props.xScale){
@@ -783,7 +732,7 @@ class BarChart extends Component {
                                 if (d.Application === 'Audio/multimédia sans fil'){
                                     this.props.underCategorie('PMSE', 1)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'équipements auxiliaires sonores de conception de programmes et de radiodiffusio PMSE'){
+                                } else if (d.Application === 'PMSE'){
                                     this.props.underCategorie('PMSE', 2)
                                     this.props.openUnderCategorie()
                                 }
@@ -795,31 +744,13 @@ class BarChart extends Component {
                                 } else if (d.Application === 'Stations terriennes du service fixe par satellite'){
                                     this.props.underCategorie('Satellite', 2)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Liaisons vidéo temporaires par satellite (SNG)'){
+                                } else if (d.Application === 'Systèmes par satellite'){
                                     this.props.underCategorie('Satellite', 3)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Systèmes de navigation par satellite'){
+                                } else if (d.Application === 'AES'){
                                     this.props.underCategorie('Satellite', 4)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === "Services de communications par satellite à bord d'aéronefs"){
-                                    this.props.underCategorie('Satellite', 5)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === "Stations terriennes à bord d'aéronefs ou de navires"){
-                                    this.props.underCategorie('Satellite', 6)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Services de communications par satellite à bord de navires'){
-                                    this.props.underCategorie('Satellite', 7)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Fréquences étalon et signaux horaires par satellite'){
-                                    this.props.underCategorie('Satellite', 8)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === "Éléments terrestres complémentaires d'un système mobile par satellite"){
-                                    this.props.underCategorie('Satellite', 9)
-                                    this.props.openUnderCategorie()
-                                } else if (d.Application === 'Services de communications par satellite à bord d’aeronefs'){
-                                    this.props.underCategorie('Satellite', 10)
-                                    this.props.openUnderCategorie()
-                                }
+                                } 
                             } else if (d.Catégorie === 'Faisceaux hertziens' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Faisceaux hertziens (FH)'){

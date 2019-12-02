@@ -161,9 +161,6 @@
 
 @media screen and (min-height: 1100px) {
     .textUndercat{
-        font-size: 24px;
-    }
-    .titleUnderCat{
-        font-size: 24px;
+        font-size: 1.3em;
     }
 }

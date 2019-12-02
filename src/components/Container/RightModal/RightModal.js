@@ -38,7 +38,7 @@ const rightMdoal = (props) => {
           <option value="8">Aides à l'audition</option>
           <option value="9">Application de radiorepérage</option>
           <option value="10">Applications inductives</option>
-          <option value="11">Radio-identification RFID</option>
+          <option value="11">RFID</option>
         </select>
       </div>
     )
@@ -60,12 +60,10 @@ const rightMdoal = (props) => {
         }} className={classes.inputTwo}>
           <option value="0">Tous</option>
           <option value="1">Réseaux mobiles ouverts au public</option>
-          <option value="2">Radiomessagerie</option>
-          <option value="3">Boucle locale radio</option>
-          <option value="4">Réseaux mobiles professionnels PMR</option>
-          <option value="5">PPDR</option>
-          <option value="6">Systèmes de Terre permettant de fournir des services de communications électroniques</option>
-          <option value="7">Transmission de données à large bande</option>
+          <option value="2">Boucle locale radio</option>
+          <option value="3">Réseaux mobiles professionnels PMR</option>
+          <option value="4">Systèmes de Terre permettant de fournir des services de communications électroniques</option>
+          <option value="5">Transmission de données à large bande</option>
         </select>
       </div>
     )
@@ -109,7 +107,7 @@ const rightMdoal = (props) => {
         }} className={classes.inputTwo}>
           <option value="0">Tous</option>
           <option value="1">Audio/multimédia sans fil</option>
-          <option value="2">équipements auxiliaires sonores de conception de programmes et de radiodiffusio PMSE</option>
+          <option value="2">PMSE</option>
         </select>
       </div>
     )
@@ -132,14 +130,8 @@ const rightMdoal = (props) => {
           <option value="0">Tous</option>
           <option value="1">Stations terriennes du service mobile par satellite</option>
           <option value="2">Stations terriennes du service fixe par satellite</option>
-          <option value="3">Liaisons vidéo temporaires par satellite (SNG)</option>
-          <option value="4">Systèmes de navigation par satellite</option>
-          <option value="5">Services de communications par satellite à bord d'aéronefs</option>
-          <option value="6">Stations terriennes à bord d'aéronefs ou de navires</option>
-          <option value="7">Services de communications par satellite à bord de navires</option>
-          <option value="8">Fréquences étalon et signaux horaires par satellite</option>
-          <option value="9">Éléments terrestres complémentaires d'un système mobile par satellite</option>
-          <option value="10">AES</option>
+          <option value="3">Systèmes par satellite</option>
+          <option value="4">AES</option>
         </select>
       </div>
     )
@@ -181,7 +173,8 @@ const rightMdoal = (props) => {
             }
         }} className={classes.inputTwo}>
           <option value="0">Tous</option>
-          <option value="1">Communications mobiles à bord des navires</option>
+          <option value="1">Autres applications</option>
+          <option value="2">DECT et autres téléphones sans fil</option>
         </select>
       </div>
     )

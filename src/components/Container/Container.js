@@ -359,7 +359,8 @@ class container extends Component {
                   closeCategorie={this.props.closeCategorie} 
                   leftClose={this.props.closeThird}
                   rightClose={this.props.close}
-                  changeCategorie={this.changeCategorieHandler}/> : null}
+                  changeCategorie={this.changeCategorieHandler}
+                  changeScrollSpectreTopBar={this.props.changeScrollSpectreTopBar}/> : null}
           <BottomBar 
             categorie={this.changeCategorieHandler}
             theme={this.props.theme}
