@@ -485,8 +485,11 @@ class BarChart extends Component {
                                 }
                             } else if (d.Catégorie === 'Autres' && this.props.xScale){
                                 this.props.closeSpectre();
-                                if (d.Application === 'Communications mobiles à bord des navires'){
+                                if (d.Application === 'Autres applications'){
                                     this.props.underCategorie('Autres', 1)
+                                    this.props.openUnderCategorie()
+                                }  else if (d.Application === 'DECT et autres téléphones sans fil'){
+                                    this.props.underCategorie('Satellite', 2)
                                     this.props.openUnderCategorie()
                                 }
                             }
@@ -759,8 +762,11 @@ class BarChart extends Component {
                                 }
                             } else if (d.Catégorie === 'Autres' && this.props.xScale){
                                 this.props.closeSpectre();
-                                if (d.Application === 'Communications mobiles à bord des navires'){
+                                if (d.Application === 'Autres applications'){
                                     this.props.underCategorie('Autres', 1)
+                                    this.props.openUnderCategorie()
+                                }  else if (d.Application === 'DECT et autres téléphones sans fil'){
+                                    this.props.underCategorie('Satellite', 2)
                                     this.props.openUnderCategorie()
                                 }
                             }
