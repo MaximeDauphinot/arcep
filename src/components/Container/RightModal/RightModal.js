@@ -5,9 +5,6 @@ import { Icon } from 'react-icons-kit';
 import {x} from 'react-icons-kit/feather/x';
 
 let test = null;
-let styleGrey = {
-  opacitiy: ''
-}
 
 const rightMdoal = (props) => {
 
@@ -61,7 +58,7 @@ const rightMdoal = (props) => {
           <option value="0">Tous</option>
           <option value="1">Réseaux mobiles ouverts au public</option>
           <option value="2">Boucle locale radio</option>
-          <option value="3">Réseaux mobiles professionnels PMR</option>
+          <option value="3">PMR/PAMR</option>
           <option value="4">Systèmes de Terre permettant de fournir des services de communications électroniques</option>
           <option value="5">Transmission de données à large bande</option>
         </select>

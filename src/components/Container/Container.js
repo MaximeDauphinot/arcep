@@ -39,10 +39,11 @@ const leftModalStyle = {
 const leftSecondModalStyle = { 
   overlay: {
     width: '100%',
+    height: '100vh',
     flexGrow: '1',
     zIndex: '1',
     boxShadow: '1px 0px 1px rgba(0, 0, 0, 0.15)',
-    marginTop: '80px',
+    marginTop: '9vh',
     backgroundColor: 'rgba(0, 0, 0, 0.15)',
   }, 
   content: {
@@ -95,7 +96,8 @@ class container extends Component {
         modalThemeIsOpen: false,
         wichTheme: 0,
         rightModalChoice: '',
-        frequenceChoice: ''
+        frequenceChoice: '',
+        link: ''
     }
 
     changeThemeHandler = (theme) => {
@@ -106,6 +108,10 @@ class container extends Component {
 
     changeRightModalChoiceHandler = (choice) => {
       this.setState({rightModalChoice: choice})
+    }
+
+    changeLinkChoiceHandler = (choice) => {
+      this.setState({link: choice})
     }
 
     changeRightModalFrenquenceChoiceHandler = (choice) => {
@@ -298,6 +304,7 @@ class container extends Component {
        this.closeModalTheme = this.closeModalTheme.bind(this)
        this.changeRightModalChoiceHandler = this.changeRightModalChoiceHandler.bind(this)
        this.changeRightModalFrenquenceChoiceHandler = this.changeRightModalFrenquenceChoiceHandler.bind(this)
+       this.changeLinkChoiceHandler = this.changeLinkChoiceHandler.bind(this);
 
 
         return (        
@@ -328,7 +335,8 @@ class container extends Component {
                     closeSpectre={this.props.closeSpectre}
                     screenResponsive={this.props.screenResponsive}
                     openUnderCategorie={this.props.openUnderCategorie}
-                    underCategorie={this.changeUnderCategorieHandler}/>
+                    underCategorie={this.changeUnderCategorieHandler}
+                    changeLinkChoiceHandler={this.changeLinkChoiceHandler}/>
                 </div>
               </div> : null}
             { this.props.categorie ? 
@@ -360,7 +368,9 @@ class container extends Component {
                   leftClose={this.props.closeThird}
                   rightClose={this.props.close}
                   changeCategorie={this.changeCategorieHandler}
-                  changeScrollSpectreTopBar={this.props.changeScrollSpectreTopBar}/> : null}
+                  changeScrollSpectreTopBar={this.props.changeScrollSpectreTopBar}
+                  link={this.state.link}
+                  changeLinkChoiceHandler={this.changeLinkChoiceHandler}/> : null}
           <BottomBar 
             categorie={this.changeCategorieHandler}
             theme={this.props.theme}

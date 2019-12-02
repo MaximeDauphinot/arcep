@@ -16,10 +16,8 @@ import { ReactComponent as Rfid} from '../../../assets/blanc/arcep_picto_blanc_R
 
 //logo reseaux mobile
 import { ReactComponent as Reseaux } from '../../../assets/blanc/arcep_picto_blanc_reseaux_mobiles_publics.svg';
-import { ReactComponent as Radiomessageries} from '../../../assets/blanc/arcep_picto_blanc_radio_messagerie.svg';
 import { ReactComponent as BoucleRadio} from '../../../assets/blanc/arcep_picto_blanc_boucle_locale_radio.svg';
 import { ReactComponent as MobilePro} from '../../../assets/blanc/arcep_picto_blanc_reseaux_mobiles_pro.svg';
-import { ReactComponent as Ppdr} from '../../../assets/blanc/arcep_picto_blanc_PPDR.svg';
 import { ReactComponent as SystemeDeTerre} from '../../../assets/blanc/arcep_picto_blanc_systemes_de_terre_permattant_de_fournir_des_services_de_communications_electroniques.svg';
 import { ReactComponent as Bluetooth} from '../../../assets/blanc/arcep_picto_blanc_transmission_de_donnees_a_large_bande_wifi_bluetooth.svg';
 
@@ -32,11 +30,6 @@ import { ReactComponent as Pmse} from '../../../assets/blanc/arcep_picto_blanc_P
 //logo satellite
 import { ReactComponent as SatelliteMobile} from '../../../assets/blanc/arcep_picto_blanc_stations_terriennes_du_service_mobile_par_satellite.svg';
 import { ReactComponent as SatelliteFixe} from '../../../assets/blanc/arcep_picto_blanc_stations_terriennes_du_service_fixe_par_satellite.svg';
-import { ReactComponent as SatellitTemporaire} from '../../../assets/blanc/arcep_picto_blanc_liaisons_video_temporaires_par_satellite_SNG-24.svg';
-import { ReactComponent as SatelliteGps} from '../../../assets/blanc/arcep_picto_blanc_systeme_de_navigation_par_satellite_GPS.svg';
-import { ReactComponent as NaviereSatellite} from '../../../assets/blanc/arcep_picto_blanc_stations_terriennes_a_bord_d_aeronefs_ou_de_navires.svg';
-import { ReactComponent as TempSatellite} from '../../../assets/blanc/arcep_picto_blanc_elements_terrestres_complementaires_d_un_systeme_mobile_par_satellite.svg';
-import { ReactComponent as TempEtalon} from '../../../assets/blanc/arcep_picto_blanc_frequences_etalon_et_signaux_horaires_par_satellite.svg';
 import { ReactComponent as Aeronef} from '../../../assets/blanc/arcep_picto_blanc_services_de_communications_par_satellite_a_bord_d_aeronefs_AES.svg';
 
 //logo faisceaux hertziens
@@ -124,9 +117,6 @@ const categorie = (props) => {
         firstContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 1); props.openUnderCategorie();}} style={style.firstContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision} id="test">
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                    </div>
                         <div className={classes.alignContainer}>
                             <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -143,9 +133,6 @@ const categorie = (props) => {
         secondContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 2); props.openUnderCategorie();}}  style={style.secondContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                    </div>
                         <div className={classes.alignContainer}>
                             <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -163,9 +150,6 @@ const categorie = (props) => {
             <div  style={style.thirdContainer}>
                 <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 3); props.openUnderCategorie();}} style={style.thirdContainersd} className={classes.hoverCategorie}>
                     <div className={classes.btnhover} >
-                        <div className={classes.decision}>
-                            <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                        </div>
                             <div className={classes.alignContainer}>
                                 <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -180,9 +164,6 @@ const categorie = (props) => {
                 </div>
                 <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 4); props.openUnderCategorie();}} className={classes.hoverCategorie} style={{backgroundColor: 'rgb(55, 86, 157)', margin: '4px 2px 0px',height: 'calc(40% - 4px)',flexDirection: 'column',}}>
                     <div className={classes.btnhover} >
-                        <div className={classes.decision}>
-                            <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                        </div>
                             <div className={classes.alignContainer}>
                                 <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -200,9 +181,6 @@ const categorie = (props) => {
         fourthContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 5); props.openUnderCategorie();}}  style={style.fourthContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                    </div>
                         <div className={classes.alignContainer}>
                             <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -219,9 +197,6 @@ const categorie = (props) => {
         fivethContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 6); props.openUnderCategorie();}}  style={style.fourthContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                    </div>
                         <div className={classes.alignContainer}>
                             <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -239,9 +214,6 @@ const categorie = (props) => {
             <div style={style.thirdContainer} >
                 <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 7); props.openUnderCategorie();}} className={classes.hoverCategorie} style={{backgroundColor: 'rgb(55, 86, 157)', margin: '0px 2px 4px',height: 'calc(40% - 4px)',flexDirection: 'column',}}>
                     <div className={classes.btnhover} >
-                        <div className={classes.decision}>
-                            <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                        </div>
                             <div className={classes.alignContainer}>
                                 <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -256,9 +228,6 @@ const categorie = (props) => {
                 </div>
                 <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 8); props.openUnderCategorie();}} style={style.thirdContainersd} className={classes.hoverCategorie}>
                     <div className={classes.btnhover} >
-                        <div className={classes.decision}>
-                            <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                        </div>
                             <div className={classes.alignContainer}>
                                 <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -276,9 +245,6 @@ const categorie = (props) => {
         seventhContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 9); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                    </div>
                         <div className={classes.alignContainer}>
                             <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -295,9 +261,6 @@ const categorie = (props) => {
         eightthContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 10); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                    </div>
                         <div className={classes.alignContainer}>
                             <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -314,9 +277,6 @@ const categorie = (props) => {
         ninethContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Objets/IoT', 11); props.openUnderCategorie();}}  style={style.fourthContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf" ><button className={classes.button + ' ' + classes.buttonObjets}>Décision</button></a>
-                    </div>
                         <div className={classes.alignContainer}>
                             <div className={classes.underCategorieContainer}>
                         <div className={classes.logoUnderCat}>
@@ -372,9 +332,6 @@ const categorie = (props) => {
         firstContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 1); props.openUnderCategorie();}} style={style.firstContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                    <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -391,9 +348,6 @@ const categorie = (props) => {
         secondContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 2); props.openUnderCategorie();}} className={classes.hoverCategorie} style={style.thirdContainer}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                 <div className={classes.logoUnderCat}>
@@ -410,16 +364,13 @@ const categorie = (props) => {
         thirdContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 3); props.openUnderCategorie();}} style={style.thirdContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
                         <MobilePro className={classes.logoUnderCat}/>
                     </div>
                     <div>
-                        <p className={classes.titleUnderCat}>Réseaux mobiles professionnels PMR</p>
+                        <p className={classes.titleUnderCat}>PMR/PAMR</p>
                     </div>
                 </div>
                     </div>
@@ -429,9 +380,6 @@ const categorie = (props) => {
         fourthContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 4); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -448,9 +396,6 @@ const categorie = (props) => {
         fivethContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Réseaux mobile et THD', 5); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover} >
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonReseaux}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -492,9 +437,6 @@ const categorie = (props) => {
         firstContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Amateur', 1); props.openUnderCategorie();}} style={style.firstContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                    <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonAmateur}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -511,9 +453,6 @@ const categorie = (props) => {
         secondContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Amateur', 2); props.openUnderCategorie();}} style={style.secondContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                    <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonAmateur}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -558,9 +497,6 @@ const categorie = (props) => {
         firstContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('PMSE', 1); props.openUnderCategorie();}} style={style.firstContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="http://www.arcep.fr/uploads/tx_gsavis/15-0830.pdf" ><button className={classes.button + ' ' + classes.buttonPMSE}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -577,9 +513,6 @@ const categorie = (props) => {
         secondContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('PMSE', 2); props.openUnderCategorie();}} style={style.secondContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="https://www.arcep.fr/uploads/tx_gsavis/16-1130.pdf" ><button className={classes.button + ' ' + classes.buttonPMSE}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -644,9 +577,6 @@ const categorie = (props) => {
         firstContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite',1); props.openUnderCategorie();}} style={style.firstContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                     <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -663,9 +593,6 @@ const categorie = (props) => {
         secondContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 2); props.openUnderCategorie();}} style={style.secondContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -682,9 +609,6 @@ const categorie = (props) => {
         thirdContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 3); props.openUnderCategorie();}} style={style.thirdContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                             <div className={classes.logoUnderCat}>
@@ -701,9 +625,6 @@ const categorie = (props) => {
         fourthContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Satellite', 4); props.openUnderCategorie();}} style={style.fourthContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonSatellite}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer}>
                             <div className={classes.logoUnderCat}>
@@ -739,9 +660,6 @@ const categorie = (props) => {
         firstContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Faisceaux hertziens', 1); props.openUnderCategorie();}} style={style.firstContainer} className={classes.hoverCategorie}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonFaisceaux}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                     <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -787,9 +705,6 @@ const categorie = (props) => {
         firstContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Autres', 1); props.openUnderCategorie();}} style={style.firstContainer} className={classes.hoverCategorieAutres}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonAutres}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer} style={{color: 'black'}}>
                             <div className={classes.logoUnderCat}>
@@ -806,9 +721,6 @@ const categorie = (props) => {
         secondContainer = (
             <div onClick={() => {props.closeCategorie(); props.underCategorie('Autres', 2); props.openUnderCategorie();}} style={style.secondContainer} className={classes.hoverCategorieAutres}>
                 <div className={classes.btnhover}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} rel="noopener noreferrer" target="_blank" href="#" ><button className={classes.button + ' ' + classes.buttonAutres}>Décision</button></a>
-                    </div>
                     <div className={classes.alignContainer}>
                         <div className={classes.underCategorieContainer} style={{color: 'black'}}>
                             <div className={classes.logoUnderCat}>

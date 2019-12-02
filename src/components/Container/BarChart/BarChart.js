@@ -114,102 +114,129 @@ class BarChart extends Component {
                             if (d.Catégorie === 'Objets/IoT' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Implants médicaux actifs'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Systèmes télématiques pour la circulation et le transport'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 2)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Alarmes'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 3)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Mesures'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 4)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Commandes de modèles réduits'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 5)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Applications à bande ultralarge (UWB)'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 6)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Non-spécifique'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 7)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === "Aides à l'audition"){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 8)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Application de radiorepérage'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 9)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Applications inductives'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 10)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'RFID'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 11)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'Réseaux mobile et THD' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Réseaux mobiles ouverts au public'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Boucle locale radio'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 2)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Réseaux mobiles professionnels PMR'){
+                                } else if (d.Application === 'PMR/PAMR'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 3)
                                     this.props.openUnderCategorie()
                                 }  else if (d.Application === 'Systèmes de Terre permettant de fournir des services de communications électroniques'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 4)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Transmission de données à large bande'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 5)
                                     this.props.openUnderCategorie()
                                 }
                             }  else if (d.Catégorie === 'Amateur' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Amateur'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Amateur', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Amateur-satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Amateur', 2)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'PMSE' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Audio/multimédia sans fil'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('PMSE', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'PMSE'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('PMSE', 2)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'Satellite' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Stations terriennes du service mobile par satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Stations terriennes du service fixe par satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 2)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Systèmes par satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 3)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'AES'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 4)
                                     this.props.openUnderCategorie()
                                 } 
                             } else if (d.Catégorie === 'Faisceaux hertziens' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Faisceaux hertziens (FH)'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Faisceaux hertziens', 1)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'Autres' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Autres applications'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Autres', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'DECT et autres téléphones sans fil'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 4)
                                     this.props.openUnderCategorie()
                                 }
@@ -393,102 +420,129 @@ class BarChart extends Component {
                             if (d.Catégorie === 'Objets/IoT' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Implants médicaux actifs'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Systèmes télématiques pour la circulation et le transport'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 2)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Alarmes'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 3)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Mesures'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 4)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Commandes de modèles réduits'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 5)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Applications à bande ultralarge (UWB)'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 6)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Non-spécifique'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 7)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === "Aides à l'audition"){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 8)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Application de radiorepérage'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 9)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Applications inductives'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 10)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'RFID'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 11)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'Réseaux mobile et THD' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Réseaux mobiles ouverts au public'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Boucle locale radio'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 2)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Réseaux mobiles professionnels PMR'){
+                                } else if (d.Application === 'PMR/PAMR'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 3)
                                     this.props.openUnderCategorie()
                                 }  else if (d.Application === 'Systèmes de Terre permettant de fournir des services de communications électroniques'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 4)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Transmission de données à large bande'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 5)
                                     this.props.openUnderCategorie()
                                 }
                             }  else if (d.Catégorie === 'Amateur' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Amateur'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Amateur', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Amateur-satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Amateur', 2)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'PMSE' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Audio/multimédia sans fil'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('PMSE', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'PMSE'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('PMSE', 2)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'Satellite' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Stations terriennes du service mobile par satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Stations terriennes du service fixe par satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 2)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Systèmes par satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 3)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'AES'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 4)
                                     this.props.openUnderCategorie()
                                 } 
                             } else if (d.Catégorie === 'Faisceaux hertziens' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Faisceaux hertziens (FH)'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Faisceaux hertziens', 1)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'Autres' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Autres applications'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Autres', 1)
                                     this.props.openUnderCategorie()
                                 }  else if (d.Application === 'DECT et autres téléphones sans fil'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 2)
                                     this.props.openUnderCategorie()
                                 }
@@ -670,102 +724,129 @@ class BarChart extends Component {
                             if (d.Catégorie === 'Objets/IoT' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Implants médicaux actifs'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Systèmes télématiques pour la circulation et le transport'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 2)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Alarmes'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 3)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Mesures'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 4)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Commandes de modèles réduits'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 5)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Applications à bande ultralarge (UWB)'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 6)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Non-spécifique'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 7)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === "Aides à l'audition"){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 8)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Application de radiorepérage'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 9)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Applications inductives'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 10)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'RFID'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Objets/IoT', 11)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'Réseaux mobile et THD' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Réseaux mobiles ouverts au public'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Boucle locale radio'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 2)
                                     this.props.openUnderCategorie()
-                                } else if (d.Application === 'Réseaux mobiles professionnels PMR'){
+                                } else if (d.Application === 'PMR/PAMR'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 3)
                                     this.props.openUnderCategorie()
                                 }  else if (d.Application === 'Systèmes de Terre permettant de fournir des services de communications électroniques'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 4)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Transmission de données à large bande'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Réseaux mobile et THD', 5)
                                     this.props.openUnderCategorie()
                                 }
                             }  else if (d.Catégorie === 'Amateur' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Amateur'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Amateur', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Amateur-satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Amateur', 2)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'PMSE' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Audio/multimédia sans fil'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('PMSE', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'PMSE'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('PMSE', 2)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'Satellite' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Stations terriennes du service mobile par satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 1)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Stations terriennes du service fixe par satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 2)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'Systèmes par satellite'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 3)
                                     this.props.openUnderCategorie()
                                 } else if (d.Application === 'AES'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 4)
                                     this.props.openUnderCategorie()
                                 } 
                             } else if (d.Catégorie === 'Faisceaux hertziens' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Faisceaux hertziens (FH)'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Faisceaux hertziens', 1)
                                     this.props.openUnderCategorie()
                                 }
                             } else if (d.Catégorie === 'Autres' && this.props.xScale){
                                 this.props.closeSpectre();
                                 if (d.Application === 'Autres applications'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Autres', 1)
                                     this.props.openUnderCategorie()
                                 }  else if (d.Application === 'DECT et autres téléphones sans fil'){
+                                    this.props.changeLinkChoiceHandler(d.Lien)
                                     this.props.underCategorie('Satellite', 2)
                                     this.props.openUnderCategorie()
                                 }

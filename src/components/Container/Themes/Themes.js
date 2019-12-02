@@ -805,7 +805,7 @@ const themes = (props) => {
                             <p>{modalThemeContent}</p>
                         </div>
                         <div className={classes.modalThemeFooter}>
-                            <a style={{color: 'black', fontSize: '14px', pointerEvents: 'auto', cursor: 'pointer'}} onClick={() => {props.closeTheme(); props.openSpectre(); }}>{modalButton}</a>
+                            <span style={{color: 'black', fontSize: '14px', pointerEvents: 'auto', cursor: 'pointer'}} onClick={() => {props.closeTheme(); props.openSpectre(); }}>{modalButton}</span>
                         </div>
                     </div>
                 </Modal>

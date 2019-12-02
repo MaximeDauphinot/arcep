@@ -16,10 +16,8 @@ import { ReactComponent as Rfid} from '../../../assets/blanc/arcep_picto_blanc_R
 
 //logo reseaux mobile
 import { ReactComponent as Reseaux } from '../../../assets/blanc/arcep_picto_blanc_reseaux_mobiles_publics.svg';
-import { ReactComponent as Radiomessageries} from '../../../assets/blanc/arcep_picto_blanc_radio_messagerie.svg';
 import { ReactComponent as BoucleRadio} from '../../../assets/blanc/arcep_picto_blanc_boucle_locale_radio.svg';
 import { ReactComponent as MobilePro} from '../../../assets/blanc/arcep_picto_blanc_reseaux_mobiles_pro.svg';
-import { ReactComponent as Ppdr} from '../../../assets/blanc/arcep_picto_blanc_PPDR.svg';
 import { ReactComponent as SystemeDeTerre} from '../../../assets/blanc/arcep_picto_blanc_systemes_de_terre_permattant_de_fournir_des_services_de_communications_electroniques.svg';
 import { ReactComponent as Bluetooth} from '../../../assets/blanc/arcep_picto_blanc_transmission_de_donnees_a_large_bande_wifi_bluetooth.svg';
 
@@ -33,12 +31,7 @@ import { ReactComponent as Pmse} from '../../../assets/blanc/arcep_picto_blanc_P
 import { ReactComponent as SatelliteMobile} from '../../../assets/blanc/arcep_picto_blanc_stations_terriennes_du_service_mobile_par_satellite.svg';
 import { ReactComponent as SatelliteFixe} from '../../../assets/blanc/arcep_picto_blanc_stations_terriennes_du_service_fixe_par_satellite.svg';
 import { ReactComponent as SatellitTemporaire} from '../../../assets/blanc/arcep_picto_blanc_liaisons_video_temporaires_par_satellite_SNG-24.svg';
-import { ReactComponent as SatelliteGps} from '../../../assets/blanc/arcep_picto_blanc_systeme_de_navigation_par_satellite_GPS.svg';
-import { ReactComponent as NaviereSatellite} from '../../../assets/blanc/arcep_picto_blanc_stations_terriennes_a_bord_d_aeronefs_ou_de_navires.svg';
-import { ReactComponent as TempSatellite} from '../../../assets/blanc/arcep_picto_blanc_elements_terrestres_complementaires_d_un_systeme_mobile_par_satellite.svg';
-import { ReactComponent as TempEtalon} from '../../../assets/blanc/arcep_picto_blanc_frequences_etalon_et_signaux_horaires_par_satellite.svg';
 import { ReactComponent as Aeronef} from '../../../assets/blanc/arcep_picto_blanc_services_de_communications_par_satellite_a_bord_d_aeronefs_AES.svg';
-import { ReactComponent as NavireWhite} from '../../../assets/blanc/arcep_picto_blanc_services_de_communications_par_satellite_a_bord_de_navires_communications_mobiles_a_bord_des_navires.svg';
 
 //logo faisceaux hertziens
 import { ReactComponent as Faisceaux} from '../../../assets/blanc/arcep_picto_blanc_faisceaux_hertziens_FH.svg';
@@ -56,8 +49,6 @@ let style = {
     secondContainer: {
     }
 }
-
-let href = null;
 let classe = null;
 
 let title = null;
@@ -96,7 +87,6 @@ const underCategories = (props) => {
 
     if (props.underCategorie === 'Objets/IoT'){
         if (props.wichUnder === 1){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
             titleThird = 'Implants médicaux actifs';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -114,7 +104,6 @@ const underCategories = (props) => {
                 </div>
             )
         } else if (props.wichUnder === 2){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
             titleThird = 'Systèmes télématiques pour la circulation et le transport';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -133,7 +122,6 @@ const underCategories = (props) => {
                 </div>
             )
         } else if (props.wichUnder === 3){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
             titleThird = 'Alarmes';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -151,7 +139,6 @@ const underCategories = (props) => {
                 </div>
             )
         } else if (props.wichUnder === 4){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
             titleThird = 'Mesures';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -169,7 +156,6 @@ const underCategories = (props) => {
                 </div>
             )
         } else if (props.wichUnder === 5){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
             titleThird = 'Commandes de modèles réduits';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -187,7 +173,6 @@ const underCategories = (props) => {
                 </div>
             )
         } else if (props.wichUnder === 6){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/07-0683.pdf'
             titleThird = 'Applications à bande ultralarge (UWB)';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -205,7 +190,6 @@ const underCategories = (props) => {
                 </div>
             )
         } else if (props.wichUnder === 7){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
             titleThird = 'Non-spécifique';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -223,7 +207,6 @@ const underCategories = (props) => {
                 </div>
             )
         } else if (props.wichUnder === 8){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
             titleThird = "Aides à l'audition";
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -241,7 +224,6 @@ const underCategories = (props) => {
                 </div>
             )
         } else if (props.wichUnder === 9){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
             titleThird = 'Application de radiorepérage';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -259,7 +241,6 @@ const underCategories = (props) => {
                 </div>
             )
         } else if (props.wichUnder === 10){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
             titleThird = 'Applications inductives';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -277,7 +258,6 @@ const underCategories = (props) => {
                 </div>
             )
         } else if (props.wichUnder === 11){
-            href = 'http://www.arcep.fr/uploads/tx_gsavis/14-1263.pdf'
             titleThird = 'RFID';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -307,7 +287,6 @@ Les applications utilisant le RFIP sont nombreuses : badges d’accès, antivol,
      } else if (props.underCategorie === 'Réseaux mobile et THD'){
         if (props.wichUnder === 1){
             titleThird = 'Réseaux mobiles ouverts au public';
-            href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -335,7 +314,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                 </div>
             )
         }  else if (props.wichUnder === 2){
-            href = ''
             titleThird = 'Boucle locale radio';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -353,15 +331,14 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                 </div>
             )
         } else if (props.wichUnder === 3){
-            href = ''
-            titleThird = 'Réseaux mobiles professionnels PMR';
+            titleThird = 'PMR/PAMR';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
                         <MobilePro className={classes.logoUnderCat}/>
                     </div>
                     <div>
-                        <p className={classes.titleUnderCat}>Réseaux mobiles professionnels PMR</p>
+                        <p className={classes.titleUnderCat}>PMR/PAMR</p>
                     </div>
                 </div>
             )
@@ -386,7 +363,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                 </div>
             )
         } else if (props.wichUnder === 4){
-            href = ''
             titleThird = 'Systèmes de Terre permettant de fournir des services de communications électroniques';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -404,7 +380,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                 </div>
             )
         } else if (props.wichUnder === 5){
-            href = ''
             titleThird = 'Transmission de données à large bande';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -432,7 +407,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
      }  else if (props.underCategorie === 'Amateur'){
         if (props.wichUnder === 1){
             titleThird = 'Amateur';
-        href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -455,7 +429,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                 </div>
             )
         } else if (props.wichUnder === 2){
-            href = ''
             titleThird = 'Amateur-satellite';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -489,7 +462,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
      } else if (props.underCategorie === 'PMSE'){
         if (props.wichUnder === 1){
             titleThird = 'Audio/multimédia sans fil';
-        href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -506,7 +478,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                 </div>
             )
         } else if (props.wichUnder === 2){
-            href = ''
             titleThird = 'PMSE';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -544,7 +515,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
      } else if (props.underCategorie === 'Satellite'){
         if (props.wichUnder === 1){
             titleThird = "Stations terriennes du service mobile par satellite";
-            href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -561,7 +531,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                 </div>
             )
         } else if (props.wichUnder === 2){
-            href = ''
             titleThird = 'Stations terriennes du service fixe par satellite';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -579,7 +548,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                 </div>
             )
         } else if (props.wichUnder === 3){
-            href = ''
             titleThird = 'Systèmes par satellite';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -601,7 +569,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                 </div>
             )
         } else if (props.wichUnder === 4){
-            href = ''
             titleThird = 'AES';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
@@ -629,7 +596,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
      } else if (props.underCategorie === 'Faisceaux hertziens'){
         if (props.wichUnder === 1){
             titleThird = 'Faisceaux hertziens';
-        href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer}>
                     <div className={classes.logoUnderCat}>
@@ -657,7 +623,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
      } else if (props.underCategorie === 'Autres'){
         if (props.wichUnder === 1){
             titleThird = 'Autres applications';
-        href = ''
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer} style={{color: 'black'}}>
                     <div className={classes.logoUnderCat}>
@@ -674,7 +639,6 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                 </div>
             )
         } else if (props.wichUnder === 2){
-            href = ''
             titleThird = 'DECT et autres téléphones sans fil';
             fenetre.leftWindow = (
                 <div className={classes.underCategorieContainer} style={{color: 'black'}}>
@@ -709,16 +673,16 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                     props.leftClose();
                     props.rightClose();
                     props.changeCategorie('');
+                    props.changeLinkChoiceHandler('');
                     props.closeUnderCategorie();
                     props.openSpectre();
-                    props.changeScrollSpectreTopBar(0);
                     }} style={{cursor: 'pointer', color: 'rgb(147, 147, 147)'}}>{title.grey}</span><span style={{cursor: 'pointer'}}onClick={() => {props.closeUnderCategorie();props.setSpectreTopBarToOne();props.closeTheme();props.categorie(props.underCategorie); props.openCategorie()}}>{title.black}</span><span style={{ color: 'rgb(147, 147, 147)'}}>{slash}</span> {titleThird}</p>
             </div>
             <div  style={styleTheme} className={classes.fullWidthContainer}>
                 <div style={style.firstContainer}>
-                    <div className={classes.decision}>
-                        <a className={classes.lien} href={href} rel="noopener noreferrer" target="_blank"><button className={classes.button + ' ' + classe}>Décision</button></a>
-                    </div>
+                    {props.link !== '' && <div className={classes.decision}>
+                                        <a className={classes.lien} href={props.link} rel="noopener noreferrer" target="_blank"><button className={classes.button + ' ' + classe}>Décision</button></a>
+                                    </div>}
                     <div className={classes.alignContainer}>
                         {fenetre.leftWindow}
                     </div>
