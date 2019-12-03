@@ -26,6 +26,7 @@ const bottomBar = (props) => {
                    props.closeTheme();
                    props.categorie('Objets/IoT'); 
                    props.openCategorie(); 
+                   props.changeLinkChoiceHandler(null);
                    document.getElementById('margintop').style.marginTop = (5 * window.innerHeight) / 100;}}>
                     <div className={classes.squar} style={{backgroundColor: 'rgb(55, 86, 157)'}}>
                     </div>
@@ -38,6 +39,7 @@ const bottomBar = (props) => {
                    props.closeTheme();
                    props.categorie('Réseaux mobile et THD');
                    props.openCategorie(); 
+                   props.changeLinkChoiceHandler(null);
                    document.getElementById('margintop').style.marginTop = (5 * window.innerHeight) / 100;}}>
                     <div className={classes.squar} style={{backgroundColor: 'rgb(127, 190, 174)'}}>
                     </div>
@@ -50,6 +52,7 @@ const bottomBar = (props) => {
                    props.closeTheme();
                    props.categorie('Amateur');
                    props.openCategorie(); 
+                   props.changeLinkChoiceHandler(null);
                    document.getElementById('margintop').style.marginTop = (5 * window.innerHeight) / 100;}}>
                     <div className={classes.squar} style={{backgroundColor: 'rgb(194, 44, 119)'}}>
                     </div>
@@ -62,6 +65,7 @@ const bottomBar = (props) => {
                    props.closeTheme();
                    props.categorie('PMSE');
                    props.openCategorie(); 
+                   props.changeLinkChoiceHandler(null);
                    document.getElementById('margintop').style.marginTop = (5 * window.innerHeight) / 100;}}>
                     <div className={classes.squar} style={{backgroundColor: 'rgb(210, 47, 47)'}}>
                     </div>
@@ -74,6 +78,7 @@ const bottomBar = (props) => {
                    props.closeTheme();
                    props.categorie('Satellite');
                    props.openCategorie(); 
+                   props.changeLinkChoiceHandler(null);
                    document.getElementById('margintop').style.marginTop = (5 * window.innerHeight) / 100;}}>
                     <div className={classes.squar} style={{backgroundColor: 'rgb(75, 172, 208)'}}>
                     </div>
@@ -86,6 +91,7 @@ const bottomBar = (props) => {
                    props.closeTheme();
                    props.categorie('Faisceaux hertziens');
                    props.openCategorie(); 
+                   props.changeLinkChoiceHandler(null);
                    document.getElementById('margintop').style.marginTop = (5 * window.innerHeight) / 100;}}>
                     <div className={classes.squar} style={{backgroundColor: 'rgb(242, 157, 75)'}}>
                     </div>
@@ -98,6 +104,7 @@ const bottomBar = (props) => {
                    props.closeTheme();
                    props.categorie('Autres');
                    props.openCategorie(); 
+                   props.changeLinkChoiceHandler(null);
                    document.getElementById('margintop').style.marginTop = (5 * window.innerHeight) / 100;}}>
                     <div className={classes.squar} style={{backgroundColor: 'rgb(240, 237, 231)'}}>
                     </div>

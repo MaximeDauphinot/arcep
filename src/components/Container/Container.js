@@ -381,7 +381,8 @@ class container extends Component {
             nameSpectre={this.props.nameSpectre}
             setSpectreTopBarToOne={this.props.setSpectreTopBarToOne}
             closeSpectre={this.props.closeSpectre}
-            closeUnderCategorie={this.props.closeUnderCategorie}/>
+            closeUnderCategorie={this.props.closeUnderCategorie}
+            changeLinkChoiceHandler={this.changeLinkChoiceHandler}/>
           <Modal 
             isOpen={this.props.modalThird}
             onRequestClose={this.props.closeThird}
