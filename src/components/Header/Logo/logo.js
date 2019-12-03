@@ -12,7 +12,7 @@ const logoSpectre = (props) => {
                 props.closeTheme(); 
                 props.closeCategorie(); 
                 props.openSpectre();
-                // document.getElementById('scrollLeft') ? document.getElementById('scrollLeft').scrollLeft = 0 : document.getElementById('scrollLeft');
+                document.getElementById('scrollLeft') ? document.getElementById('scrollLeft').scrollLeft = 0 : document.getElementById('scrollLeft');
                 d3.selectAll('#topTest').style('fill', 'rgb(55, 86, 157)')
                 d3.selectAll('#topTest2').style('fill', 'rgb(127, 190, 174)')
                 d3.selectAll('#topTest3').style('fill', 'rgb(194, 44, 119)')

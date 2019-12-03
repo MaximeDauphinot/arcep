@@ -206,38 +206,38 @@ const rightMdoal = (props) => {
                     }
                   }}>
                     <option value="">Tous</option>
-                    <option value="1">0 - 100 000 KHz</option>
-                    <option value="2">100 000 - 200 000 KHz</option>
-                    <option value="3">200 000 - 300 000 KHz</option>
-                    <option value="4">300 000 - 400 000 KHz</option>
-                    <option value="5">400 000 - 500 000 KHz</option>
-                    <option value="6">500 000 - 600 000 KHz</option>
-                    <option value="7">600 000 - 700 000 KHz</option>
-                    <option value="8">700 000 - 800 000 KHz</option>
-                    <option value="9">800 000 - 900 000 KHz</option>
-                    <option value="10">900 000 - 1 000 000 KHz</option>
+                    <option value="1">0 - 100 KHz</option>
+                    <option value="2">100 - 200 KHz</option>
+                    <option value="3">200 - 300 KHz</option>
+                    <option value="4">300 - 400 KHz</option>
+                    <option value="5">400 - 500 KHz</option>
+                    <option value="6">500 - 600 KHz</option>
+                    <option value="7">600 - 700 KHz</option>
+                    <option value="8">700 - 800 KHz</option>
+                    <option value="9">800 - 900 KHz</option>
+                    <option value="10">900 - 1 000 KHz</option>
 
-                    <option value="11">1 000 000 - 100 000 000 MHz</option>
-                    <option value="12">100 000 000 - 200 000 000 MHz</option>
-                    <option value="13">200 000 000 - 300 000 000 MHz</option>
-                    <option value="14">300 000 000 - 400 000 000 MHz</option>
-                    <option value="15">400 000 000 - 500 000 000 MHz</option>
-                    <option value="16">500 000 000 - 600 000 000 MHz</option>
-                    <option value="17">600 000 000 - 700 000 000 MHz</option>
-                    <option value="18">700 000 000 - 800 000 000 MHz</option>
-                    <option value="19">800 000 000 - 900 000 000 MHz</option>
-                    <option value="20">900 000 000 - 1 000 000 000 MHz</option>
+                    <option value="11">1 - 100 MHz</option>
+                    <option value="12">100 - 200 MHz</option>
+                    <option value="13">200 - 300 MHz</option>
+                    <option value="14">300 - 400 MHz</option>
+                    <option value="15">400 - 500 MHz</option>
+                    <option value="16">500 - 600 MHz</option>
+                    <option value="17">600 - 700 MHz</option>
+                    <option value="18">700 - 800 MHz</option>
+                    <option value="19">800 - 900 MHz</option>
+                    <option value="20">900 - 1 000 MHz</option>
 
-                    <option value="21">1 000 000 000 - 30 000 000 000 GHz</option>
-                    <option value="22">30 000 000 000 - 55 000 000 000 GHz</option>
-                    <option value="23">55 000 000 000 - 85 000 000 000 GHz</option>
-                    <option value="24">85 000 000 000 - 110 000 000 000 GHz</option>
-                    <option value="25">110 000 000 000 - 135 000 000 000 GHz</option>
-                    <option value="26">135 000 000 000 - 165 000 000 000 GHz</option>
-                    <option value="27">165 000 000 000 - 190 000 000 000 GHz</option>
-                    <option value="28">190 000 000 000 - 220 000 000 000 GHz</option>
-                    <option value="29">220 000 000 000 - 250 000 000 000 GHz</option>
-                    <option value="30">250 000 000 000 - 275 000 000 000 GHz</option>
+                    <option value="21">1 - 30 GHz</option>
+                    <option value="22">30 - 55 GHz</option>
+                    <option value="23">55 - 85 GHz</option>
+                    <option value="24">85 - 110 GHz</option>
+                    <option value="25">110 - 135 GHz</option>
+                    <option value="26">135 - 165 GHz</option>
+                    <option value="27">165 - 190 GHz</option>
+                    <option value="28">190 - 220 GHz</option>
+                    <option value="29">220 - 250 GHz</option>
+                    <option value="30">250 - 275 GHz</option>
                   </select>
                 </div>
               </div>

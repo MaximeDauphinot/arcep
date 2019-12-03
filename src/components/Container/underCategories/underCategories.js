@@ -117,8 +117,8 @@ const underCategories = (props) => {
             )
             fenetre.rightWindow = (
                 <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>"La catégorie des systèmes télématiques pour la circulation et les transports regroupe des dispositifs radio utilisés dans le domaine des transports (routier, ferroviaire, maritime, fluvial ou aérien, selon les restrictions techniques pertinentes), de la gestion du trafic, de la navigation, de la gestion de la mobilité et des systèmes de transport intelligents (STI). Ces dispositifs sont généralement utilisés pour constituer des interfaces entre différents modes de transport, assurer la communication entre véhicules (de voiture à voiture par exemple), entre des 
-                    véhicules et des emplacements fixes (de voiture à infrastructure) et la communication à destination et en provenance des usagers."</p>
+                    <p className={classes.textUndercat}>La catégorie des systèmes télématiques pour la circulation et les transports regroupe des dispositifs radio utilisés dans le domaine des transports (routier, ferroviaire, maritime, fluvial ou aérien, selon les restrictions techniques pertinentes), de la gestion du trafic, de la navigation, de la gestion de la mobilité et des systèmes de transport intelligents (STI). Ces dispositifs sont généralement utilisés pour constituer des interfaces entre différents modes de transport, assurer la communication entre véhicules (de voiture à voiture par exemple), entre des 
+                    véhicules et des emplacements fixes (de voiture à infrastructure) et la communication à destination et en provenance des usagers.</p>
                 </div>
             )
         } else if (props.wichUnder === 3){
@@ -271,9 +271,9 @@ const underCategories = (props) => {
             )
             fenetre.rightWindow = (
                 <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>"Le RFID (pour Radio Frequency Identification) est une technologie développée pour mémoriser et récupérer des données à distance, jusqu’à une dizaine de mètres. La catégorie des dispositifs d’identification par radiofréquence (RFID) 
+                    <p className={classes.textUndercat}>Le RFID (pour Radio Frequency Identification) est une technologie développée pour mémoriser et récupérer des données à distance, jusqu’à une dizaine de mètres. La catégorie des dispositifs d’identification par radiofréquence (RFID) 
 regroupe des systèmes de communication fondé sur des étiquettes/interrogateurs, constitués de dispositifs radio (étiquettes) fixés à des objets animés ou inanimés et d’émetteurs/récepteurs (interrogateurs) qui activent les étiquettes et reçoivent des données en retour. Ces dispositifs sont utilisés pour suivre et identifier des objets, dans le cadre d’applications de surveillance électronique des objets par exemple, et pour recueillir et transmettre des données relatives à des objets munis d’étiquettes, qui peuvent être sans batterie, assistées par batterie ou alimentées par batterie. Les réponses fournies par l’étiquette sont validées par l’interrogateur et transmises à son système hôte.
-Les applications utilisant le RFIP sont nombreuses : badges d’accès, antivol, traçabilité des produits et des marchandises, passeports, titres de transport en commun, paiement sans contact…"</p>
+Les applications utilisant le RFIP sont nombreuses : badges d’accès, antivol, traçabilité des produits et des marchandises, passeports, titres de transport en commun, paiement sans contact…</p>
                 </div>
             )
         }
@@ -299,7 +299,7 @@ Les applications utilisant le RFIP sont nombreuses : badges d’accès, antivol,
             )
             fenetre.rightWindow = (
                 <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>"Les réseaux mobiles utilisent des ondes électromagnétiques pour transmettre des informations entre les antennes-relais et les téléphones mobiles des utilisateurs. 
+                    <p className={classes.textUndercat}>Les réseaux mobiles utilisent des ondes électromagnétiques pour transmettre des informations entre les antennes-relais et les téléphones mobiles des utilisateurs. 
 
 Les technologies utilisées pour les réseaux mobiles évoluent régulièrement, depuis la 2G jusqu'à bientôt la 5G :
 - Le réseau GSM (pour Global System for Mobile Communications) est une norme de seconde génération (2G) pour la téléphonie mobile. Il permet de téléphoner, d’envoyer des SMS et des MMS. Cette norme a évolué avec l'arrivée de la technologie EDGE (Enhanced Data Rates for GSM Evolution) qui offre une amélioration des débits.
@@ -310,7 +310,7 @@ Les technologies utilisées pour les réseaux mobiles évoluent régulièrement,
 Les réseaux mobiles peuvent être ouverts au public ou réservés à des professionnels qui souhaitent disposer d'une solution de communication privée. Les bandes de fréquences utilisées sont attribuées de manière exclusive aux titulaires par l'Arcep.
 
 
-"</p>
+</p>
                 </div>
             )
         }  else if (props.wichUnder === 2){
@@ -344,7 +344,7 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
             )
             fenetre.rightWindow = (
                 <div className={classes.textAlign}>
-                    <p className={classes.textUndercat}>"Les réseaux mobiles professionnels (souvent rassemblés sous le sigle PMR pour "" professionnal mobile radio "") sont des réseaux mobiles d'ampleur généralement locale ou régionale, exploités pour des usages professionnels.
+                    <p className={classes.textUndercat}>Les réseaux mobiles professionnels (souvent rassemblés sous le sigle PMR pour "" professionnal mobile radio "") sont des réseaux mobiles d'ampleur généralement locale ou régionale, exploités pour des usages professionnels.
  
                                 Ces réseaux mobiles professionnels sont utilisés par des entreprises de tailles très diverses (depuis le professionnel indépendant jusqu'aux grands groupes) et de différents secteurs d'activités tels que :
                                 les transports (entreprises de transports routiers, sociétés de bus, de taxis, services aéroportuaires, sociétés d'autoroutes, ambulanciers…) ;
@@ -359,7 +359,7 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                                 Les utilisations de réseaux professionnels concernent un nombre très élevé d'installations. En avril 2018, 24 916 réseaux PMR avaient fait l'objet d'une autorisation attribuée à titre individuel par l'ARCEP. A cela s'ajoutent les nombreuses utilisations dans des bandes libres, c'est-à-dire non soumises à autorisation individuelle.
 
                                 Plus d'informations sur : <a href="https://www.arcep.fr/la-regulation/grands-dossiers-reseaux-mobiles/innovation-start-up/le-portail-bandes-libres/les-reseaux-mobiles-professionnels-pmr.html">https://www.arcep.fr/la-regulation/grands-dossiers-reseaux-mobiles/innovation-start-up/le-portail-bandes-libres/les-reseaux-mobiles-professionnels-pmr.html</a>
-                                "</p>
+                                </p>
                 </div>
             )
         } else if (props.wichUnder === 4){
@@ -676,7 +676,13 @@ Les réseaux mobiles peuvent être ouverts au public ou réservés à des profes
                     props.changeLinkChoiceHandler(null);
                     props.closeUnderCategorie();
                     props.openSpectre();
-                    }} style={{cursor: 'pointer', color: 'rgb(147, 147, 147)'}}>{title.grey}</span><span style={{cursor: 'pointer'}}onClick={() => {props.closeUnderCategorie();props.setSpectreTopBarToOne();props.closeTheme();props.categorie(props.underCategorie); props.openCategorie()}}>{title.black}</span><span style={{ color: 'rgb(147, 147, 147)'}}>{slash}</span> {titleThird}</p>
+                    }} style={{cursor: 'pointer', color: 'rgb(147, 147, 147)'}}>{title.grey}</span><span style={{cursor: 'pointer'}}onClick={() => {
+                        props.closeUnderCategorie();
+                        props.setSpectreTopBarToOne();
+                        props.closeTheme();
+                        props.changeLinkChoiceHandler(null);
+                        props.categorie(props.underCategorie);
+                        props.openCategorie()}}>{title.black}</span><span style={{ color: 'rgb(147, 147, 147)'}}>{slash}</span> {titleThird}</p>
             </div>
             <div  style={styleTheme} className={classes.fullWidthContainer}>
                 <div style={style.firstContainer}>

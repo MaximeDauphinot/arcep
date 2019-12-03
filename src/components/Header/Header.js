@@ -12,11 +12,14 @@ const modalStyle = {
       width: '100vw',
       height: '100vh',
       zIndex: '10',
+      backgroundColor: 'rgba(0, 0, 0, 0.45)',
     }, 
     content: {
       backgroundColor: 'rgb(221, 96, 92)',
-      width: '100%',
-      height: '100%',
+      width: '50%',
+      height: '50%',
+      marginLeft: '25%',
+      marginTop: '15%',  
       top: '0',
       bottom: '0',
       left: '0',
@@ -24,7 +27,7 @@ const modalStyle = {
       padding: '0',
       justifyContent: 'flex-end',
       border: '0px',
-      borderRadius: '0px'
+      borderRadius: '30px'
     }
 }
 
@@ -81,7 +84,7 @@ class header extends Component {
           spectre={this.props.spectre}/>
         <Modal 
           isOpen={this.state.modalIsOpen}
-          onRequestClose={() => {this.setState({modalIsOpen: false})}}
+          // onRequestClose={() => {this.setState({modalIsOpen: false})}}
           ariaHideApp={false}
           style={modalStyle}>
           <ModalTopBar 

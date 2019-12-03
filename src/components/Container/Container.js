@@ -370,7 +370,7 @@ class container extends Component {
                   changeCategorie={this.changeCategorieHandler}
                   changeScrollSpectreTopBar={this.props.changeScrollSpectreTopBar}
                   link={this.state.link}
-                  changeLinkChoiceHandler={this.changeLinkChoiceHandler}/> : null}
+                  changeLinkChoiceHandler={this.changeLinkChoiceHandler}/> : () => {this.changeLinkChoiceHandler(null)} }
           <BottomBar 
             categorie={this.changeCategorieHandler}
             theme={this.props.theme}
